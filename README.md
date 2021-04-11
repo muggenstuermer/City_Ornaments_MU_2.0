@@ -19,8 +19,7 @@ you can expect :
 
  - matching gargoyles for the "concreted" water channel
 
- - the Eiffel tower...but you have to earn it in the world exhibition.(architecture exhibition --> magnificent exhibition --> cultivated architecture).this one has a very large radius for its buff to prevent double buildings,as good as it is possible.<-- Note: since GNU 10 the radius no more prevents a double building.
- - a different coloured version can be chosen by switching through the different colours.
+ - the Eiffel tower...but you have to earn it in the world exhibition.(architecture exhibition --> magnificent exhibition --> cultivated architecture).this one has a very large radius for its buff to prevent double buildings,as good as it is possible.<-- Note: since GNU 10 the radius no more prevents a double building. a different coloured version can be chosen by switching through the different colours.
 
  - a Mt. Rushmore copy, tailored for the annoholics
 

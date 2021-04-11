@@ -1,0 +1,97 @@
+Das ist ein city ornamenten mod.
+
+[Ornamental]City_Ornaments_MU 2.0
+
+DIESER MOD IST KEIN UPDATE ZU [Ornamental]City_Ornaments 1.0 !
+ALLES AUS [Ornamental]City_Ornaments 1.0 IST AUCH IN 2.0 VERFÜGBAR
+
+Wer alte savegames mit 1.0 jedoch unbeschadet behalten möchte,sollte folgendes tun :
+Den Modordner von [Ornamental]City_Ornaments 1.0 sichern und durch den Beigelegten Modordner [Ornamental] City_Ornaments_MU_1.0 ersetzen.
+Alle Objekte die mit 1.0 gebaut wurden bleiben erhalten.es kommt zu keinem konflikten zwischen 1.0 und 2.0 
+Das Baumenü von 1.0 ist damit auch deaktiviert.
+
+
+es erwarten euch :
+
+ - 3 neue strassen
+
+ - ein paar strassen ornamente, mit jeweils 2 Attraktivitätspunkten pro Objekt
+
+ - der bekannte wasserkanal,diesmal überdacht, mit jeweils 2 Attraktivitätspunkten pro Objekt
+
+ - der Wasserkanal aus Embesa in neuem look in 2 versionen . Naturell und Betoniert.
+
+ - passende Wasserspeier für den "betonierten" wasserkanal
+
+ - der Eiffelturm... ACHTUNG : NICHT KOMPATIBEL MIT "[Ornamental] World-Fair Items" VON SPICE IT UP ! DIESER MOD MUSS DEAKTIVIERT WERDEN !.allerdings muß man sich diesen in der Weltausstellung verdienen.(Architekturausstellung --> Prächtige Ausstellung --> Kultivierte Architektur).Dieser ist mit einem sehr großen radius für seinen buff versehen um doppelt bauten,so gut wie es eben möglich ist zu unterbinden.eine farblich unterschiedliche variante kann durch duchschalten gewählt werden
+
+ - eine Mt. Rushmore Kopie,zugeschnitten für die annoholiker
+
+ - einen Wasserfall der sich sehen lassen kann
+
+ - ein Cafe am See
+
+ - Straßenschilder für alle möglichen kreuzungen
+
+ - 15 verschiedene kleine marktplätze die als solches funktionieren und in jede nische passen
+
+ - der original Marktplatz ist weitere 2 stufen ausbaubar .1. stufe passt eher in arbeiterviertel und 2. stufe mehr zu den investoren.das spiel lässt keine variation zu.bei jedem neustart wird die variante aufs original zurückgesetzt,deshalb über ausbaustufen
+	(bekannte bugs : nicht alle feedback männchen erscheinen durch das upgrade,beheben lässt sich das momentan nur durch das kopieren der ausgebauten stufe und neu setzen.bin auf lösungssuche)
+
+ - ein Reiterhof
+
+ - 27 verschiedene Blumenbeete/felder um schöne hingucker zu setzen. (zugegebenermaßen ähneln sich einige,aber der teufel liegt im detail ;) )
+
+ - eine City taugliche Fußgängerbrücke,quasi die gehobene variante zu der aus dem dlc
+
+ - Land kübelpflanzen, mit jeweils 2 Attraktivitätspunkten pro Objekt
+
+ - land Sitzbänke , mit jeweils 2 Attraktivitätspunkten pro Objekt
+
+ - Werbetafeln , mit jeweils 2 Attraktivitätspunkten pro Objekt
+
+ - Diverse Fahnen , mit jeweils 2 Attraktivitätspunkten pro Objekt
+
+ - Dekorative Plazaböden , mit jeweils 2 Attraktivitätspunkten pro Objekt
+
+ - Diverse Zäune und Törchen jetzt neu und übersichtlich sortiert
+
+ - Statuen und Brunnen , mit jeweils 2 Attraktivitätspunkten pro Objekt und neuen objekten die an 1602 anlehnen
+
+ - Ein City Allerlei , mit jeweils 2 Attraktivitätspunkten pro Objekt
+
+ - Ein Friedhof mit allem drum und dran, mit jeweils 2 Attraktivitätspunkten pro Objekt
+
+ - 2 verschiedene Festungsmauern mit durchgangstoren
+
+
+In einem seperaten Baumenü findet ihr desweiteren :
+
+ - 25 eingezäunte Agrar und Tierfelder
+
+
+Es wurde versucht das Baumenü im gegensatz zu der 1. version,übersichtlicher zu gestalten und ein ewiges durchschalten zu vermeiden. es gibt jedoch 2-3 objekte,wo das nicht so ist.persönlich finde ich das zumutbar.
+desweiteren sind die menüs jetzt zwar wie gewohnt im arbeiter menü zu finden,jedoch sind sie an letzter stelle positioniert um spiele notwendige menüs nicht unnötig zu versetzen.auch im Kultur reiter findet ihr die baumenüs.einzig die kleinen Marktplätze sind direkt neben dem original marktplatz zu finden.
+Anmerkung : 
+	
+	der komplette mod steht auch in der Arktis zur verfügung.Grund : auf mehreren anfagen hin wurde das realisiert.wer es dort nicht bauen will mus es ja auch nicht,aber die option gibt es.
+
+	das model vom eifelturm ist von https://www.cgtrader.com/free-3d-models/architectural/engineering/eiffel-tower-056df590-f97e-4f93-8e11-3f2bd25951da und wird unter Creative Commons lizenz ( https://creativecommons.org/licenses/by-sa/3.0/legalcode ) genutz.
+	am model selbst wurde nichts verändert. Es wurde lediglich texturiert.
+
+---------------------------
+Update GU10 (28.02.2021) -
+---------------------------
+Änderungen:
+
+	-anpassungen der wasserhöhen der kanäle: sind jetzt identisch
+	-auf anfrage: schlammige Marktplätze / Stände wurden hinzugefügt
+	-auf anfrage: kulturelle Attraktivität von einigen Objekten entfernt
+	-verschiedene anpassungen an GU 10 (DLC-Docklands)
+	-ist jetzt kompatibel mit [Ornamental] World-Fair Items von SiU
+	-der Eiffelturm befindet sich jetzt im baumenü von City_Ornaments_2.0 in der kategorie "Statuen und Brunnen", nachdem er von der Weltausstellung erhalten wurde
+
+-Um alte Spielstände nicht zu stören, wird der Bauernmarkt nach dem updaten vom investorenmarkt platziert
+- Es gibt immer noch einen bekannten Fehler mit dem Marktplatz (bekannte bugs : nicht alle feedback männchen erscheinen durch das upgrade,beheben lässt sich das momentan nur durch das kopieren der ausgebauten stufe und neu setzen. ich suche immer noch nach einer lösung.)
+
+

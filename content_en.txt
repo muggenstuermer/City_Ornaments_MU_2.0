@@ -3,12 +3,13 @@ This is a city ornaments mod.
 [Ornamental]City_Ornaments_MU 2.0
 
 THIS MOD IS NOT AN UPDATE TO [Ornamental]City_Ornaments 1.0 !
-ALL OF [Ornamental] City_Ornaments 1.0 IS ALSO AVAILABLE IN 2.0
+EVERYTHING FROM [Ornamental]City_Ornaments 1.0 IS ALSO AVAILABLE IN 2.0
 
 If you want to keep old savegames with 1.0 undamaged, you should do the following:
-Save the mod folder of [Ornamental] City_Ornaments 1.0 and replace it with the enclosed mod folder [Ornamental] City_Ornaments_MU_1.0
-All objects that were built with 1.0 are retained; there are no conflicts between 1.0 and 2.0
-The build menue of 1.0 is also deactivated.
+Save the modfolder of [Ornamental]City_Ornaments 1.0 and replace it with the enclosed modfolder [Ornamental] City_Ornaments_MU_1.0.
+All objects built with 1.0 remain intact. There are no conflicts between 1.0 and 2.0. 
+The building menu of 1.0 is also deactivated.
+
 
 you can expect :
 
@@ -22,7 +23,7 @@ you can expect :
 
  - matching gargoyles for the "concreted" water channel
 
- - the Eiffel tower... ATTENTION : NOT COMPATIBLE WITH "[Ornamental] World-Fair Items" FROM SPICE IT UP ! THIS MOD MUST BE DISABLED ! .but you have to earn it in the world exhibition.(architecture exhibition --> magnificent exhibition --> cultivated architecture).this one has a very large radius for its buff to prevent double buildings,as good as it is possible.a different coloured version can be chosen by switching through the different colours.
+ - the Eiffel Tower... ATTENTION : NOT COMPATIBLE WITH "[Ornamental] World-Fair Items" FROM SPICE IT UP ! THIS MOD MUST BE DISABLED !.but you have to earn it in the world-exhibition.(architecture-exhibition --> magnificent-exhibition --> cultivated architecture).this one has a very big radius for its buff to prevent double-buildings,as good as it is possible.a different coloured variant can be chosen by toggling through it
 
  - a Mt. Rushmore copy, tailored for the annoholics
 
@@ -77,18 +78,37 @@ Note :
 
 	the model of the eifel tower is from https://www.cgtrader.com/free-3d-models/architectural/engineering/eiffel-tower-056df590-f97e-4f93-8e11-3f2bd25951da and is used under Creative Commons licence ( https://creativecommons.org/licenses/by-sa/3.0/legalcode ).
 	nothing was changed on the model itself. It was only textured.
+	
 
 ---------------------------
-Update GU10 (28.02.2021)  -
----------------------------	
-changes:
+Changelog - 2.1
+---------------------------
+Changes:
 
-	-adjustments to the water levels of the channels: are now identical
-	-by request: muddy marketplaces/stalls are added
-	-by request: some cultural attractiveness from the objects removed
-	-various adjustments to GU 10 (DLC-Docklands)
+	-adjustments of the water heights of the channels: are now identical
+	-on request: muddy market places / stalls have been added
+	-on request: removed cultural attractiveness from some objects
+	-various adjustments to GU 10 (DLC docklands)
 	-is now compatible with [Ornamental] World-Fair Items from SiU
-	-the eiffel tower is now in the buildmenu from City_Ornaments_2.0 in the category "Statues and Fountains" after receiving it from the world exhibition
+	-The Eiffel Tower is now in the "Statues and Fountains" category in the City_Ornaments_2.0 building menu after it was obtained from the World's Fair.
 
--In order not to disturb old savegames, the farmers market will be placed after updates from the investor market
-- known bug with the marketplace still exists (known bugs: not all feedback males appear through the upgrade,at the moment this can only be fixed by copying the upgraded level and setting it again.i'am still looking for a solution)
+-To not disturb old scores, the farmer's market is placed after updating from the investor's market
+- There is still a known bug with the marketplace (known bugs : not all feedback males appear through the upgrade,the only way to fix this at the moment is to copy the upgraded level and set it again. i'm still looking for a solution).
+
+
+---------------------------
+Changelog - 2.2 NOT REALLY SAVEGAME COMPATIBLE !
+---------------------------
+	
+	- due to changes by UBI,corrections had to be made,which are unfortunately not savegame compatible.a savegame without City_Ornaments_2.0 is compatible at any time.
+	- some bugfixes and corrections to the objects
+	- many objects got an alternative floor (Shift+G)
+	- Eiffel tower: you have to earn it in the world exhibition (miracle of architecture->precious->cultivated architecture->box in the middle). you can find it in the City_Ornaments_2.0 building menu in "statues and fountains".
+	- various new ornaments have been integrated
+	- fences and canals can now be built seamlessly and some have their own gates.
+	- following the example of Spice it UP-Plaza Streets (Taubenangriff), 9 new roads with street function have been created. these behave like real roads, but do not show a range overlay.
+	- new content with a focus on "railways" has been added.
+	- thanks to Taubenangriff,a method has been added that allows you to build objects inside objects.this gives you more freedom when building.you have to be careful where and how you draw your road,for example,because it can be drawn through the object in that case !
+	- a little how-to on how to use the new content : https://www.youtube.com/watch?v=AwETqVwslX0
+	- a small presentation on how to work with object in object : https://www.youtube.com/watch?v=YXrw_5tqKTE
+	

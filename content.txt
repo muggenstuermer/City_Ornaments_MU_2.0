@@ -80,7 +80,7 @@ Anmerkung :
 	am model selbst wurde nichts verändert. Es wurde lediglich texturiert.
 
 ---------------------------
-Update GU10 (28.02.2021) -
+Changelog - 2.1
 ---------------------------
 Änderungen:
 
@@ -95,3 +95,18 @@ Update GU10 (28.02.2021) -
 - Es gibt immer noch einen bekannten Fehler mit dem Marktplatz (bekannte bugs : nicht alle feedback männchen erscheinen durch das upgrade,beheben lässt sich das momentan nur durch das kopieren der ausgebauten stufe und neu setzen. ich suche immer noch nach einer lösung.)
 
 
+---------------------------
+Changelog - 2.2 NUR BEDINGT SAVEGAME KOMPATIBEL !
+---------------------------
+	
+	- auf grund von änderungen seitens UBI,mussten korrekturen vorgenommen werden,die leider nicht savegame kompatibel sind.Ein savegame ohne City_Ornaments_2.0 ist jederzeit kompatibel
+	- einige bugfixes und korrekturen an den objekten
+	- viele Objekte haben einen alternativ boden erhalten (Shift+G)
+	- Eiffelturm:muß man sich in der Weltausstellung verdienen.( Wunder der Architektur->Prächtig->kultivierte architektur->kiste in der mitte ).Zu finden ist er dann im City_Ornaments_2.0 Baumenü in "Statuen und Brunnen".
+	- diverse neue Ornamente wurden eingebunden
+	- zäune und kanäle sind jetzt nahtlos baubar und haben zT. eigene Tore erhalten
+	- nach vorbild von Spice it UP-Plaza Streets (Taubenangriff),sind 9 neue Wege mit Strassenfunktion entstanden.Diese verhalten sich wie echte Strassen,zeigen jedoch kein reichweiten overlay an
+	- neuer content mit schwerpunkt "Eisenbahn" wurde mit eingebracht.
+	- dank Taubenangriff wurde eine methode mit eingebracht,die es erlaubt objekte in objekte zu bauen.das ermöglicht mehr freiheit beim bauen.man muss dann jedoch genau schauen wo und wie man zum Beispiel seine Strasse zieht,weil sie in dem fall durch das objekt gezogen werden kann !
+	- ein kleines how-to wie man mit dem neuen content umgehen kann : https://www.youtube.com/watch?v=AwETqVwslX0
+	- eine kleine präsentation,wie das mit objekt in objekt funktionieren kann : https://www.youtube.com/watch?v=YXrw_5tqKTE

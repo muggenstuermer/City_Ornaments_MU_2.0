@@ -1,0 +1,113 @@
+C'est un mod city ornament.
+
+[Ornamental]City_Ornaments_MU 2.0
+
+CE MOD N'EST PAS UNE MISE À JOUR DE [Ornamental]City_Ornaments 1.0 !
+TOUT DE [Ornamental]City_Ornaments 1.0 EST AUSSI DISPONIBLE EN 2.0
+
+Pour ceux qui souhaitent conserver leurs anciennes sauvegardes 1.0 intactes, voici ce qu'il faut faire :
+Sauvegarder le dossier mod de [Ornamental]City_Ornaments 1.0 et le remplacer par le dossier mod [Ornamental] City_Ornaments_MU_1.0 ci-joint.
+Tous les objets construits avec 1.0 sont conservés. Il n'y a pas de conflit entre 1.0 et 2.0. 
+Le menu de construction de 1.0 est également désactivé.
+
+
+Ce qui vous attend :
+
+ - 3 nouvelles rues
+
+ - quelques ornements de rues, avec 2 points d'attractivité par objet
+
+ - le célèbre canal d'eau, cette fois-ci couvert, avec 2 points d'attractivité par objet
+
+ - le canal d'eau d'Embesa dans un nouveau look en 2 versions. Naturel et béton.
+
+ - gargouilles adaptées au canal d'eau "bétonné".
+
+ - la Tour Eiffel ... ATTENTION : NON COMPATIBLE AVEC "[Ornamental] World-Fair Items" DE SPICE IT UP ! CE MOD DOIT ÊTRE DÉACTIVÉ !.mais il faut le gagner dans l'exposition universelle.(Exposition d'architecture --> Exposition magnifique --> Architecture raffinée).il est doté d'un très grand rayon pour son buff afin d'empêcher autant que possible les constructions en double.une variante de couleur différente peut être choisie en cliquant dessus.
+
+ - une copie du Mt. Rushmore, taillée sur mesure pour les annooliques
+
+ - une chute d'eau qui peut être vue
+
+ - un café au bord du lac
+
+ - des panneaux de signalisation pour toutes les intersections possibles
+
+ - 15 petites places de marché différentes qui fonctionnent comme telles et s'adaptent à chaque niche.
+
+ - la place de marché originale est extensible de 2 niveaux supplémentaires.le 1er niveau correspond plus aux quartiers populaires et le 2ème niveau plus aux investisseurs.le jeu ne permet aucune variation.à chaque redémarrage la variante est remise à l'original,d'où les niveaux d'extension
+	(bugs connus : les feedbacks n'apparaissent pas tous lors de la mise à jour, pour l'instant la seule solution est de copier l'étape aménagée et de la remettre en place. je cherche une solution)
+
+ - un centre équestre
+
+ - 27 parterres/champs de fleurs différents pour attirer l'attention. (il est vrai que certains se ressemblent, mais le diable est dans les détails ;) )
+
+ - un pont piétonnier adapté à la ville, quasiment la version supérieure de celui du dlc
+
+ - des plantes en pots, avec 2 points d'attractivité par objet
+
+ - des bancs à la campagne, avec 2 points d'attractivité par objet
+
+ - Panneaux publicitaires , avec 2 points d'attractivité par objet
+
+ - drapeaux divers, avec 2 points d'attractivité par objet
+
+ - Sols de places décoratifs, avec 2 points d'attractivité par objet.
+
+ - Diverses clôtures et petits portails désormais triés de manière claire et précise
+
+ - Statues et fontaines, avec 2 points d'attractivité par objet et de nouveaux objets inspirés de 1602.
+
+ - Un City Allerlei , avec 2 points d'attractivité par objet
+
+ - Un cimetière avec tout ce qu'il faut, avec 2 points d'attractivité par objet.
+
+ - 2 murs de forteresse différents avec des portes de passage
+
+
+Dans un menu de construction séparé, vous trouverez également :
+
+ - 25 champs agricoles et animaux clôturés.
+
+
+Contrairement à la première version, nous avons essayé de rendre le menu de construction plus clair et d'éviter de passer sans cesse par le menu. Il y a cependant 2 ou 3 objets pour lesquels ce n'est pas le cas.
+De plus, les menus se trouvent maintenant comme d'habitude dans le menu ouvrier, mais ils sont placés en dernier pour ne pas déplacer inutilement les menus nécessaires aux jeux. Vous trouverez également les menus de construction dans l'onglet culture.
+Note : 
+	
+	Le mod complet est également disponible dans l'Arctique, pour la simple et bonne raison que cela a été réalisé suite à plusieurs demandes.
+
+	Le modèle de la Tour Eiffel est de https://www.cgtrader.com/free-3d-models/architectural/engineering/eiffel-tower-056df590-f97e-4f93-8e11-3f2bd25951da et est utilisé sous licence Creative Commons ( https://creativecommons.org/licenses/by-sa/3.0/legalcode ).
+	Le modèle lui-même n'a pas été modifié. Seules les textures ont été modifiées.
+	
+
+---------------------------
+Changelog - 2.1
+---------------------------
+Modifications :
+
+	-ajustements des hauteurs d'eau des canaux : sont maintenant identiques
+	-sur demande : ajout de places de marché / stands boueux
+	-sur demande : suppression de l'attrait culturel de certains objets
+	-diverses adaptations à GU 10 (DLC Docklands)
+	-est désormais compatible avec les objets [Ornamental] World-Fair de SiU
+	-la Tour Eiffel se trouve maintenant dans le menu de construction de City_Ornaments_2.0 dans la catégorie "Statues et fontaines", après avoir été obtenue de l'exposition universelle
+
+-Afin de ne pas perturber les anciennes sauvegardes, le marché des fermiers est placé après la mise à jour du marché des investisseurs.
+- Il y a toujours un bug connu avec le marché (bug connu : tous les mâles de feedback n'apparaissent pas suite à la mise à jour, pour l'instant le seul moyen de corriger cela est de copier le niveau développé et de le remettre. je cherche toujours une solution).
+
+
+---------------------------
+Changelog - 2.2 UNIQUEMENT COMPATIBLE AVEC SAVEGAME !
+---------------------------
+	
+	- en raison de changements de la part de l'UBI, des corrections ont dû être apportées, qui ne sont malheureusement pas compatibles avec le savegame. un savegame sans City_Ornaments_2.0 est toujours compatible.
+	- quelques corrections de bugs et d'objets
+	- de nombreux objets ont reçu un sol alternatif (Shift+G)
+	- Tour Eiffel : elle doit être gagnée dans l'exposition universelle (Merveille de l'architecture->Précieux->Architecture cultivée->Caisse au milieu ).elle se trouve ensuite dans le menu de construction City_Ornaments_2.0 dans "Statues et fontaines".
+	- divers nouveaux ornements ont été intégrés
+	- les clôtures et les canaux sont maintenant constructibles sans interruption et ont parfois leurs propres portes.
+	- sur le modèle de Spice it UP-Plaza Streets (Taubenangriff), 9 nouvelles routes ont été créées, qui se comportent comme de vraies routes, mais n'affichent pas de superposition de portée.
+	- Un nouveau contenu centré sur les chemins de fer a été ajouté.
+	- Grâce à l'Taubenangriff, une méthode a été introduite qui permet de construire des objets dans des objets. Cela permet une plus grande liberté de construction. Il faut cependant bien regarder où et comment on trace sa route, car dans ce cas, elle peut être tracée par l'objet !
+	- un petit how-to sur la manière d'utiliser le nouveau contenu : https://www.youtube.com/watch?v=AwETqVwslX0
+	- une petite présentation de la façon dont cela peut fonctionner avec l'objet dans l'objet : https://www.youtube.com/watch?v=YXrw_5tqKTE

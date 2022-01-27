@@ -1,0 +1,77 @@
+{
+  "Version": "2.2",
+  "ModID": "City_Ornaments_2.0_MU",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Ornamental mod",
+    "French": "Mod ornemental",
+    "German": "Ornamentaler Mod",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+    "ModName": {
+    "Chinese": null,
+    "English": "City_Ornaments_2.0_MU",
+    "French": "City_Ornaments_2.0_MU",
+    "German": "City_Ornaments_2.0_MU",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Decorative elements for the city, activation from 1 worker.",
+    "French": "Éléments décoratifs pour la ville, activation à partir de 1 ouvrier",
+    "German": "Dekorative Elemente für die City, Freischaltung ab 1 Arbeiter.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": "Updatable marketplaces do not show everything after upgrading (optics), the copy tool can help and build a new one (upgraded variant)",
+      "French": "Les places de marché pouvant être mises à jour ne montrent pas tout après la mise à niveau (optique), l'outil de copie peut vous aider et en créer une nouvelle (variante mise à niveau)",
+      "German": "Updatebare Marktplätze zeigen nach dem aufwerten nicht alles an (optik),abhilfe schafft das kopiertool und neu bauen (aufgewertete variante)",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    {
+      "Chinese": null,
+      "English": "Some elements come from the DLC Docklands. Those who do not own this DLC cannot build these elements",
+      "French": "Certains éléments proviennent du DLC Docklands. Ceux qui ne possèdent pas ce DLC ne peuvent pas construire ces éléments",
+      "German": "Einige Elemente stammen aus den DLC Docklands. Wer diese DLC nicht besitzt, kann diese Elemente nicht bauen",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": null,
+  "CreatorName": "muggenstuermer",
+  "CreatorContact": "https://discord.gg/TFGXpmsm",
+  "Image" : null
+}

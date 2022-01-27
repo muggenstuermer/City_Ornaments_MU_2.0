@@ -2,9 +2,9 @@
   <BoundingBox>
     <Name>BoundingBox</Name>
     <Position>
-      <xf>-0.5</xf>
-      <yf>0.1313232</yf>
-      <zf>-0.3002442</zf>
+      <xf>0</xf>
+      <yf>0.8188477</yf>
+      <zf>0</zf>
     </Position>
     <Rotation>
       <xf>0</xf>
@@ -13,17 +13,17 @@
       <wf>1</wf>
     </Rotation>
     <Extents>
-      <xf>1</xf>
-      <yf>0.5638428</yf>
-      <zf>0.246582</zf>
+      <xf>0.5</xf>
+      <yf>1.068848</yf>
+      <zf>0.5</zf>
     </Extents>
   </BoundingBox>
   <MeshBoundingBox>
     <Name>MeshBoundingBox</Name>
     <Position>
-      <xf>-0.5</xf>
-      <yf>0.1313232</yf>
-      <zf>-0.3002442</zf>
+      <xf>0</xf>
+      <yf>0.9438477</yf>
+      <zf>0</zf>
     </Position>
     <Rotation>
       <xf>0</xf>
@@ -32,41 +32,43 @@
       <wf>1</wf>
     </Rotation>
     <Extents>
-      <xf>1</xf>
-      <yf>0.5638428</yf>
-      <zf>0.246582</zf>
+      <xf>0.1622314</xf>
+      <yf>0.9438477</yf>
+      <zf>0.1622314</zf>
     </Extents>
   </MeshBoundingBox>
+  <DisableFeedbackArea>0</DisableFeedbackArea>
   <BuildBlocker>
     <Position>
       <xf>-0.5</xf>
-      <zf>-0.5</zf>
+      <zf>-2.5</zf>
     </Position>
     <Position>
       <xf>-0.5</xf>
-      <zf>-2.5</zf>
-    </Position>
-    <Position>
-      <xf>0.5</xf>
-      <zf>-2.5</zf>
+      <zf>-0.5</zf>
     </Position>
     <Position>
       <xf>0.5</xf>
       <zf>-0.5</zf>
+    </Position>
+    <Position>
+      <xf>0.5</xf>
+      <zf>-2.5</zf>
     </Position>
   </BuildBlocker>
+  
   <BuildBlocker>
-    <Position>
-      <xf>0.5</xf>
-      <zf>0.5</zf>
-    </Position>
-    <Position>
-      <xf>-0.5</xf>
-      <zf>0.5</zf>
-    </Position>
     <Position>
       <xf>-0.5</xf>
       <zf>2.5</zf>
+    </Position>
+    <Position>
+      <xf>-0.5</xf>
+      <zf>0.5</zf>
+    </Position>
+    <Position>
+      <xf>0.5</xf>
+      <zf>0.5</zf>
     </Position>
     <Position>
       <xf>0.5</xf>

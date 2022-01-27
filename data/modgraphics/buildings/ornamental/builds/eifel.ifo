@@ -3,7 +3,7 @@
     <Name>BoundingBox</Name>
     <Position>
       <xf>0</xf>
-      <yf>0</yf>
+      <yf>0.8188477</yf>
       <zf>0</zf>
     </Position>
     <Rotation>
@@ -14,7 +14,7 @@
     </Rotation>
     <Extents>
       <xf>0.5</xf>
-      <yf>0.5</yf>
+      <yf>1.068848</yf>
       <zf>0.5</zf>
     </Extents>
   </BoundingBox>
@@ -22,7 +22,7 @@
     <Name>MeshBoundingBox</Name>
     <Position>
       <xf>0</xf>
-      <yf>0</yf>
+      <yf>0.9438477</yf>
       <zf>0</zf>
     </Position>
     <Rotation>
@@ -32,9 +32,9 @@
       <wf>1</wf>
     </Rotation>
     <Extents>
-      <xf>0.5</xf>
-      <yf>0.5</yf>
-      <zf>0.5</zf>
+      <xf>0.1622314</xf>
+      <yf>0.9438477</yf>
+      <zf>0.1622314</zf>
     </Extents>
   </MeshBoundingBox>
   <DisableFeedbackArea>0</DisableFeedbackArea>
@@ -115,20 +115,74 @@
   </BuildBlocker>
   <PriorityFeedbackBlocker>
     <Position>
-      <xf>0.5</xf>
-      <zf>-0.5</zf>
+      <xf>8.5</xf>
+      <zf>-8.5</zf>
     </Position>
     <Position>
-      <xf>0.5</xf>
-      <zf>0.5</zf>
+      <xf>8.5</xf>
+      <zf>-4.5</zf>
     </Position>
     <Position>
-      <xf>-0.5</xf>
-      <zf>0.5</zf>
+      <xf>4.5</xf>
+      <zf>-4.5</zf>
     </Position>
     <Position>
-      <xf>-0.5</xf>
-      <zf>-0.5</zf>
+      <xf>4.5</xf>
+      <zf>-8.5</zf>
+    </Position>
+  </PriorityFeedbackBlocker>
+  <PriorityFeedbackBlocker>
+    <Position>
+      <xf>8.5</xf>
+      <zf>4.5</zf>
+    </Position>
+    <Position>
+      <xf>8.5</xf>
+      <zf>8.5</zf>
+    </Position>
+    <Position>
+      <xf>4.5</xf>
+      <zf>8.5</zf>
+    </Position>
+    <Position>
+      <xf>4.5</xf>
+      <zf>4.5</zf>
+    </Position>
+  </PriorityFeedbackBlocker>
+  <PriorityFeedbackBlocker>
+    <Position>
+      <xf>-4.5</xf>
+      <zf>4.5</zf>
+    </Position>
+    <Position>
+      <xf>-4.5</xf>
+      <zf>8.5</zf>
+    </Position>
+    <Position>
+      <xf>-8.5</xf>
+      <zf>8.5</zf>
+    </Position>
+    <Position>
+      <xf>-4.5</xf>
+      <zf>4.5</zf>
+    </Position>
+  </PriorityFeedbackBlocker>
+  <PriorityFeedbackBlocker>
+    <Position>
+      <xf>-4.5</xf>
+      <zf>-8.5</zf>
+    </Position>
+    <Position>
+      <xf>-4.5</xf>
+      <zf>-4.5</zf>
+    </Position>
+    <Position>
+      <xf>-8.5</xf>
+      <zf>-4.5</zf>
+    </Position>
+    <Position>
+      <xf>-8.5</xf>
+      <zf>-8.5</zf>
     </Position>
   </PriorityFeedbackBlocker>
 </Info>

@@ -1,6 +1,434 @@
 <ModOps>
 	<ModOp Type="add" Path="/TextExport/Texts">
 		<Text>
+		  <GUID>1337500245</GUID>
+		  <Text>Alley of Trees (Street)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500246</GUID>
+		  <Text>Mossy path (Street)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500247</GUID>
+		  <Text>Old Cobblestone Path (Street)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500248</GUID>
+		  <Text>Cobblestone Road (Street)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500249</GUID>
+		  <Text>Sidewalk (Street)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500250</GUID>
+		  <Text>Covered Promenade (Street)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500251</GUID>
+		  <Text>Fake Rails</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500252</GUID>
+		  <Text>Port Fake Rails</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500253</GUID>
+		  <Text>Noble Fence</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500254</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500255</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500256</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500257</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500258</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500259</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500260</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500261</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500262</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500263</GUID>
+		  <Text>Locomotive with wagon</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500264</GUID>
+		  <Text>Bulk wagon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500265</GUID>
+		  <Text>Transport trailers for the goods of the consumer society</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500266</GUID>
+		  <Text>Kettle wagon</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500267</GUID>
+		  <Text>Everything liquid belongs in here</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500268</GUID>
+		  <Text>Guest wagon</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500269</GUID>
+		  <Text>Gorgeous views are what a train ride offers every time</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500270</GUID>
+		  <Text>Goods wagon</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500271</GUID>
+		  <Text>Quick,hurry up with the loading,it's raining</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500272</GUID>
+		  <Text>Open freight wagon</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500273</GUID>
+		  <Text>This is not so sensitive,this can go on here.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500274</GUID>
+		  <Text>Dredger</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500275</GUID>
+		  <Text>Pushes everything in front of it</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500276</GUID>
+		  <Text>Bucket chain excavator</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500277</GUID>
+		  <Text>Coal pile</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500278</GUID>
+		  <Text>Coal loading</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500279</GUID>
+		  <Text>Please move in for loading.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500280</GUID>
+		  <Text>Maintenance hangar</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500281</GUID>
+		  <Text>Even these sturdy fellows need their care</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500282</GUID>
+		  <Text>Clearance office</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500283</GUID>
+		  <Text>Please fill out the clearance form and get in line.... Next!</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500284</GUID>
+		  <Text>Signal box</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500285</GUID>
+		  <Text>Where the hell is the 10.30 train?</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500286</GUID>
+		  <Text>Cereal loading</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500287</GUID>
+		  <Text>The mill has ordered quite a lot of grain today</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500288</GUID>
+		  <Text>Loading crane</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500289</GUID>
+		  <Text>Purely ornamental copy of railway tracks</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500290</GUID>
+		  <Text>Purely ornamental copy of the railway tracks for the port</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500291</GUID>
+		  <Text>Connects buildings and allows transport of goods,however no range overlay is displayed</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500292</GUID>
+		  <Text>Fences,gates and paths</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500293</GUID>
+		  <Text>Industrial Railway Station Buildings</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500294</GUID>
+		  <Text>Simple industrial lamps</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500295</GUID>
+		  <Text>Double industrial lamps</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500296</GUID>
+		  <Text>Large Fountain Plaza</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500297</GUID>
+		  <Text>Large Fountain Plate</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500298</GUID>
+		  <Text>Victory column with pavement base</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500299</GUID>
+		  <Text>You are a great commander! Your glorious reign is at its height. Your people admire you deeply. Now is the time to crown your triumph with a victory column.</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500300</GUID>
+		  <Text>Victory column with plaza floor</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500301</GUID>
+		  <Text>Victory column with decorated foundation and base</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500302</GUID>
+		  <Text>Victory column with ornate foundation and paved base</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500303</GUID>
+		  <Text>Victory column with classical foundation and paved base</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500304</GUID>
+		  <Text>Corner palisade</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500305</GUID>
+		  <Text>Closed barriers</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500306</GUID>
+		  <Text>Shoo hoo,please step back</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500307</GUID>
+		  <Text>Open barriers</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500308</GUID>
+		  <Text>Animated barriers</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500309</GUID>
+		  <Text>Animated double barriers</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500310</GUID>
+		  <Text>Trees with bench</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500311</GUID>
+		  <Text>Garden and landscape trees</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500312</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500313</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500314</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500315</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500316</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500317</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500318</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500319</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500320</GUID>
+		  <Text>Locomotive</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500321</GUID>
+		  <Text>Locomotive with wagon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500322</GUID>
+		  <Text>Bulk wagon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500323</GUID>
+		  <Text>Bulk wagon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500324</GUID>
+		  <Text>Guest wagon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500325</GUID>
+		  <Text>Freight wagon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500326</GUID>
+		  <Text>Open freight wagon</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500327</GUID>
+		  <Text>Dredger</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500328</GUID>
+		  <Text>Bucket chains excavator</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500329</GUID>
+		  <Text>Industrial Station Vehicles Port</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500330</GUID>
+		  <Text>Industrial Station Buildings Port</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500331</GUID>
+		  <Text>Coal pile</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500332</GUID>
+		  <Text>Coal loading</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500333</GUID>
+		  <Text>Maintenance hall</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500334</GUID>
+		  <Text>Clearance office</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500335</GUID>
+		  <Text>Signal box</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500336</GUID>
+		  <Text>Cereal loading</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500337</GUID>
+		  <Text>Loading crane</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500338</GUID>
+		  <Text>Simple industrial lamps</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500339</GUID>
+		  <Text>Double industrial lamps</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500340</GUID>
+		  <Text>Closed barriers</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500341</GUID>
+		  <Text>Open barriers</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500342</GUID>
+		  <Text>Animated barriers</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500343</GUID>
+		  <Text>Animated double barriers</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500344</GUID>
+		  <Text>Docklands Main Building Ornament</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500345</GUID>
+		  <Text>Docklands Depot Ornament</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500346</GUID>
+		  <Text>Docklands Pier Ornament</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500347</GUID>
+		  <Text>Docklands Harbourmaster Ornament</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500348</GUID>
+		  <Text>Docklands Exports Office Ornament</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500349</GUID>
+		  <Text>Docklands Repair Crane Ornament</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500350</GUID>
+		  <Text>Docklands Loading Wharf Ornament</Text>
+		</Text>
+		
+		
+		<Text>
 		  <GUID>1337500030</GUID>
 		  <Text>Noble Street</Text>
 		</Text>
@@ -45,16 +473,16 @@
 		</Text>
 		<Text>
 		  <GUID>1337500037</GUID>
-		  <Text>A nice spot on the street.Each object earns 2 attractiveness points</Text>.
+		  <Text>A nice spot by the road</Text>.
 		</Text>
 		
 		<Text>
 		  <GUID>1337500038</GUID>
-		  <Text>A nicely paved square attracts tourists. Each object brings 2 points of attractiveness.</Text>
+		  <Text>A nicely paved square attracts tourists.</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500039</GUID>
-		  <Text>Plaza floor</Text>.
+		  <Text>Plaza floor</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500040</GUID>
@@ -106,20 +534,19 @@
 		</Text>
 		<Text>
 		  <GUID>1337500052</GUID>
-		  <Text>Plaza floor</Text>
+		  <Text>Plaza Ground (Street)</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500053</GUID>
-		  <Text>Plaza floor</Text>
+		  <Text>Plaza Ground (Street)</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500054</GUID>
-		  <Text>Plaza floor</Text>
+		  <Text>Plaza Ground</Text>
 		</Text>
-		
 		<Text>
 		  <GUID>1337500055</GUID>
-		  <Text>Natural water channel</Text>
+		  <Text>Natural water channel</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500056</GUID>
@@ -143,15 +570,15 @@
 		</Text>
 		<Text>
 		  <GUID>1337500061</GUID>
-		  <Text>Rail bridge water canal</Text>
+		  <Text>Rail bridge water channel</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500062</GUID>
-		  <Text>Rail bridge water canal</Text>
+		  <Text>Rail bridge water channel</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500063</GUID>
-		  <Text>Railed water canal</Text>
+		  <Text>Railed water channel</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500064</GUID>
@@ -200,7 +627,7 @@
 		</Text>
 		<Text>
 		  <GUID>1337500077</GUID>
-		  <Text>Fits in any niche and Honours what is respectable . Each object earns 2 attractiveness points</Text>.
+		  <Text>Fits in any niche and Honours what is honourable .</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500078</GUID>
@@ -220,7 +647,7 @@
 		</Text>
 		<Text>
 		  <GUID>1337500082</GUID>
-		  <Text>4x5 wells</Text>
+		  <Text>4x5 fountains</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500083</GUID>
@@ -241,56 +668,56 @@
 		</Text>
 		<Text>
 		  <GUID>1337500087</GUID>
-		  <Text>A magnificent statue or a refreshing fountain, both cannot be missing in a big city. Each object brings 2 attractiveness points.</Text>
+		  <Text>A magnificent statue or a refreshing fountain, both cannot be missing in a big city</Text>.
 		</Text>
 		
 		<Text>
 		  <GUID>1337500088</GUID>
-		  <Text>Roofed canal end piece</Text>.
+		  <Text>Roofed channel with fountains</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500089</GUID>
-		  <Text>Roofed channel straight</Text>
+		  <Text>Roofed channel</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500090</GUID>
-		  <Text>Roofed canal corner</Text>
+		  <Text>Channel with fountains</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500091</GUID>
-		  <Text>Roofed canal intersection</Text>
+		  <Text>Channel</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500092</GUID>
-		  <Text>Roofed channel T-junction</Text>
+		  <Text>Farmer's fence</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500093</GUID>
-		  <Text>Roofed canal bridge</Text>
+		  <Text>Roofed channel bridge</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500094</GUID>
-		  <Text>Canal without roof end piece</Text>.
+		  <Text>Worker fence</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500095</GUID>
-		  <Text>Duct without roof straight</Text>
+		  <Text>Artisans fence</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500096</GUID>
-		  <Text>Canal without roof Corner</Text>.
+		  <Text>Engineer's fence</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500097</GUID>
-		  <Text>Canal without roof Crossing</Text>.
+		  <Text>Investor fence</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500098</GUID>
-		  <Text>Canal without roof T-junction</Text>
+		  <Text>Cemetery fence</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500099</GUID>
-		  <Text>Canal without roof Bridge</Text>.
+		  <Text>Channel Bridge</Text>
 		</Text>
 		
 		<Text>
@@ -321,24 +748,23 @@
 		</Text>
 		<Text>
 		  <GUID>1337500106</GUID>
-		  <Text>Small trees and shrubs</Text>
+		  <Text>Small trees and shrubs</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500107</GUID>
-		  <Text>Flowers on plinth</Text>.
+		  <Text>Flowerpot on pedestal</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500108</GUID>
-		  <Text>Flowing bucket</Text>
+		  <Text>Flowerpot</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500109</GUID>
-		  <Text>Flower Bucket Large</Text>
+		  <Text>Flowerpot Large</Text>
 		</Text>
-		
 		<Text>
 		  <GUID>1337500110</GUID>
-		  <Text>Flower Bed AW White</Text>
+		  <Text>Flower bed AW White</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500111</GUID>
@@ -424,23 +850,23 @@
 		</Text>
 		<Text>
 		  <GUID>1337500131</GUID>
-		  <Text>Who doesn't like to rest in beautiful places.Each object earns 2 attractiveness points</Text>.
+		  <Text>Who doesn't like to rest in beautiful places</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500132</GUID>
-		  <Text>2pc benches without people</Text>.
+		  <Text>2 seater benches without people</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500133</GUID>
-		  <Text>2er without bench seat and persons</Text>.
+		  <Text>Double without bench seat and persons</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500134</GUID>
-		  <Text>1er bench seats</Text>
+		  <Text>Simple bench seats</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500135</GUID>
-		  <Text>1er benches corner</Text>
+		  <Text>Simple benches corner</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500136</GUID>
@@ -457,7 +883,7 @@
 		</Text>
 		<Text>
 		  <GUID>1337500139</GUID>
-		  <Text>Advertising is the key to success. Each object brings 2 attractiveness points</Text>.
+		  <Text>Advertising is the key to success</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500140</GUID>
@@ -469,16 +895,16 @@
 		</Text>
 		<Text>
 		  <GUID>1337500142</GUID>
-		  <Text>Litfass columns</Text>
+		  <Text>Advertising pillars</Text>
 		</Text>
 		
 		<Text>
 		  <GUID>1337500143</GUID>
-		  <Text>flags</Text>
+		  <Text>Flags</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500144</GUID>
-		  <Text>Display flag as long as it is not a beer flag.Each object earns 2 attractiveness points.</Text>
+		  <Text>Flag display, as long as it's not a beer flag</Text>.
 		</Text>
 		
 		<Text>
@@ -492,7 +918,7 @@
 		
 		<Text>
 		  <GUID>1337500147</GUID>
-		  <Text>Covered palace path</Text>.
+		  <Text>Covered promenade (Street)</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500148</GUID>
@@ -510,7 +936,7 @@
 		
 		<Text>
 		  <GUID>1337500151</GUID>
-		  <Text>Ornamel Valley Marketplaces</Text>.
+		  <Text>Ornamental Marketplaces</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500152</GUID>
@@ -524,37 +950,36 @@
 		
 		<Text>
 		  <GUID>1337500154</GUID>
-		  <Text>Farmer's fence</Text>
+		  <Text>Farmer's fence gate</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500155</GUID>
-		  <Text>Fences protect your belongings, and they look nice too</Text>.
+		  <Text>Fences protect your belongings.And they look nice too</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500156</GUID>
-		  <Text>Worker's fence</Text>.
+		  <Text>Worker fence gate</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500157</GUID>
-		  <Text>Worker's fence</Text>.
+		  <Text>Artisans fence gate</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500158</GUID>
-		  <Text>Engineer's fence</Text>
+		  <Text>Engineer fence gate</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500159</GUID>
-		  <Text>Investor fence</Text>
+		  <Text>Investor fence gate</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500160</GUID>
-		  <Text>Wall fence</Text>
+		  <Text>Cemetery Gate</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500161</GUID>
-		  <Text>Gateway arch for in-game fences</Text>.
+		  <Text>Gateway arch for ingame fences</Text>.
 		</Text>
-		
 		<Text>
 		  <GUID>1337500162</GUID>
 		  <Text>Fields of any type and colours</Text>.
@@ -566,7 +991,7 @@
 		
 		<Text>
 		  <GUID>1337500164</GUID>
-		  <Text>Flower Field AW White</Text>
+		  <Text>Flower Field AW White</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500165</GUID>
@@ -611,11 +1036,11 @@
 		</Text>
 		<Text>
 		  <GUID>1337500175</GUID>
-		  <Text>Workers' graves</Text>.
+		  <Text>Workers graves</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500176</GUID>
-		  <Text>Craftsmen's graves</Text>.
+		  <Text>Artisans graves</Text>.
 		</Text>
 		<Text>
 		  <GUID>1337500177</GUID>
@@ -627,7 +1052,7 @@
 		</Text>
 		<Text>
 		  <GUID>1337500179</GUID>
-		  <Text>Luxury Crypt</Text>
+		  <Text>Luxury tomb</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500180</GUID>
@@ -643,7 +1068,7 @@
 		</Text>
 		<Text>
 		  <GUID>1337500183</GUID>
-		  <Text>Cemetery paths</Text>.
+		  <Text>Cemetery paths (Street)</Text>
 		</Text>
 		
 		<Text>
@@ -747,7 +1172,6 @@
 		  <GUID>1337500208</GUID>
 		  <Text>Dwelling houses</Text>
 		</Text>
-		
 		<Text>
 		  <GUID>1337500209</GUID>
 		  <Text>Market stalls</Text>
@@ -823,6 +1247,14 @@
 		<Text>
 		  <GUID>1337500238</GUID>
 		  <Text>Marketplace</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500241</GUID>
+		  <Text>Industrial railway station vehicles</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337500242</GUID>
+		  <Text>Quite everything you need for a freight station</Text>.
 		</Text>
 		
 		<Text>

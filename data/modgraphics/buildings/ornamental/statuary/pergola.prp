@@ -16,9 +16,9 @@
 <cModelDiffTex>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_shared/props/maps/cultural_03_props_diff.psd</>
 <NORMAL_ENABLED>1</>
 <cModelNormalTex>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_shared/props/maps/cultural_03_props_norm.psd</>
-<cDiffuseColor.r>1.352000</>
-<cDiffuseColor.g>1.352000</>
-<cDiffuseColor.b>1.352000</>
+<cDiffuseColor.r>1.000000</>
+<cDiffuseColor.g>1.000000</>
+<cDiffuseColor.b>1.000000</>
 <cGlossinessFactor>0.697000</>
 <cAlphaRef>0.500000</>
 <cOpacity>1.000000</>

@@ -618,7 +618,20 @@
 		
 		<Text>
 		  <GUID>1337500075</GUID>
-		  <Text>Culture</Text>
+		  <Text>Muggi CO2-2.4</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337500351</GUID>
+		  <Text>Muggi CO2-2.4</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501430</GUID>
+		  <Text>Muggi CO2-2.4</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501431</GUID>
+		  <Text>Muggi CO2-2.4</Text>
 		</Text>
 		
 		<Text>
@@ -1238,15 +1251,70 @@
 		</Text>
 		<Text>
 		  <GUID>1337500225</GUID>
-		  <Text>Marketplace</Text>
+		  <Text>Workers livestock market</Text>
 		</Text>
 		<Text>
+		  <GUID>1337501338</GUID>
+		  <Text>Here we act as if there were no tomorrow</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501339</GUID>
+		  <Text>Hacienda Pavement (Street)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501340</GUID>
+		  <Text>Hacienda Pavement (Ornament)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501341</GUID>
+		  <Text>Hacienda Path (Street)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501342</GUID>
+		  <Text>Hacienda Way (Ornament)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501343</GUID>
+		  <Text>Yellow Flowerbed (NW Palm)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501344</GUID>
+		  <Text>Red Flowerbed (NW Palm)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501345</GUID>
+		  <Text>Purple Flowerbed (NW Palm)</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>134742</GUID>
+		  <Text>Yellow flower bed (AW deciduous tree)</Text>
+		</Text>
+		<Text>
+		  <GUID>134741</GUID>
+		  <Text>Red flower bed (AW deciduous tree)</Text>
+		</Text>
+		<Text>
+		  <GUID>134720</GUID>
+		  <Text>Purple flower bed (AW deciduous tree)</Text>
+		</Text>
+		
+		<Text>
 		  <GUID>1337500226</GUID>
-		  <Text>Marketplace</Text>
+		  <Text>Investors market</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501337</GUID>
+		  <Text>Investors appreciate the freshness that is offered to them here</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500238</GUID>
-		  <Text>Marketplace</Text>
+		  <Text>Farmers market</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500240</GUID>
+		  <Text>People also meet here for nice conversations while selling their breeding cattle</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500241</GUID>
@@ -1291,8 +1359,348 @@
 		  <Text>Bison enclosure</Text>
 		</Text>
 		<Text>
-		  <GUID>1337500234</GUID>
+		  <GUID>1337500235</GUID>
 		  <Text>Water buffalo enclosure</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501346</GUID>
+		  <Text>Fenced greenery NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501347</GUID>
+		  <Text>Fenced tree NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501348</GUID>
+		  <Text>Sewer NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501349</GUID>
+		  <Text>Canals NW</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501350</GUID>
+		  <Text>Cereal field</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501351</GUID>
+		  <Text>Hop field</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501352</GUID>
+		  <Text>Potato field</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501353</GUID>
+		  <Text>Vineyard</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501354</GUID>
+		  <Text>Paprika field</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501355</GUID>
+		  <Text>Sugar cane field</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501356</GUID>
+		  <Text>Tobacco field</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501357</GUID>
+		  <Text>Cotton field</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501358</GUID>
+		  <Text>Cocoa plantation</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501359</GUID>
+		  <Text>Rubber plantation</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501360</GUID>
+		  <Text>Coffee field</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501361</GUID>
+		  <Text>Banana plantation</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501362</GUID>
+		  <Text>Cornfield</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501363</GUID>
+		  <Text>Cattle enclosure</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501364</GUID>
+		  <Text>Sheep pen</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501365</GUID>
+		  <Text>Pig pen</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501366</GUID>
+		  <Text>Cattle enclosure NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501367</GUID>
+		  <Text>Alpaca pasture</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501368</GUID>
+		  <Text>Goose enclosure</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501369</GUID>
+		  <Text>Husky run</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501370</GUID>
+		  <Text>Hacienda Pavement Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501371</GUID>
+		  <Text>Hacienda Pavement Road Bridge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501372</GUID>
+		  <Text>Hacienda Way Road</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501373</GUID>
+		  <Text>Hacienda Way Road Bridge</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501374</GUID>
+		  <Text>Created water channel NW</Text>.
+		</Text>
+		
+		
+		<Text>
+		  <GUID>1337501375</GUID>
+		  <Text>Water spout 1-fold NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501376</GUID>
+		  <Text>Water spout 4-fold NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501377</GUID>
+		  <Text>Director NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501378</GUID>
+		  <Text>1x1 statues NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501379</GUID>
+		  <Text>1x1 fountains NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501380</GUID>
+		  <Text>2x2 statues NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501381</GUID>
+		  <Text>2x2 fountains NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501382</GUID>
+		  <Text>2x3 wells NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501383</GUID>
+		  <Text>4x5 wells NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501384</GUID>
+		  <Text>4x5 statues NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501385</GUID>
+		  <Text>Passages NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501386</GUID>
+		  <Text>Potted plants on plinth NW</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501387</GUID>
+		  <Text>Potted Plants Enclosed NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501388</GUID>
+		  <Text>Potted Plants Normal NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501389</GUID>
+		  <Text>Small trees and shrubs NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501390</GUID>
+		  <Text>Flowers on plinth NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501391</GUID>
+		  <Text>Flowing bucket NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501392</GUID>
+		  <Text>Large Flowerpot NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501393</GUID>
+		  <Text>2-seater benches with people NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501394</GUID>
+		  <Text>2 seater benches without people NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501395</GUID>
+		  <Text>2-seater without bench seat and persons NW</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501396</GUID>
+		  <Text>1er bench seats NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501397</GUID>
+		  <Text>1er benches corner NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501398</GUID>
+		  <Text>Centre NW benches</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501399</GUID>
+		  <Text>Torch arch NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501400</GUID>
+		  <Text>Advertising boards Anno self-advertising NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501401</GUID>
+		  <Text>Advertising board ingame products NW</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501402</GUID>
+		  <Text>Advertising board Mods NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501403</GUID>
+		  <Text>Litfass columns NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501404</GUID>
+		  <Text>Flags NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501405</GUID>
+		  <Text>Pedestrian bridge NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501406</GUID>
+		  <Text>Roofing NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501407</GUID>
+		  <Text>Statues and fountains NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501408</GUID>
+		  <Text>Persons NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501409</GUID>
+		  <Text>City Ornaments NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501410</GUID>
+		  <Text>Investor fence NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501411</GUID>
+		  <Text>Noble fence NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501412</GUID>
+		  <Text>Investor Skin NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501413</GUID>
+		  <Text>Gorgeous Market NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501414</GUID>
+		  <Text>Open Air Market NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501415</GUID>
+		  <Text>Straight hedge NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501416</GUID>
+		  <Text>Fence NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501417</GUID>
+		  <Text>Wide entrance NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501418</GUID>
+		  <Text>Torch arch NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501419</GUID>
+		  <Text>Water features NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501420</GUID>
+		  <Text>Decorated Straight Fence NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501421</GUID>
+		  <Text>Decorated archway NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501422</GUID>
+		  <Text>Decorated straight hedge NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501423</GUID>
+		  <Text>Decorated entrance NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501424</GUID>
+		  <Text>Ornate steel fence NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501425</GUID>
+		  <Text>Tile wall gate NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501426</GUID>
+		  <Text>Tile wall NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501427</GUID>
+		  <Text>Low brick wall NW</Text>.
+		</Text>
+		<Text>
+		  <GUID>1337501428</GUID>
+		  <Text>Low wall arch NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501429</GUID>
+		  <Text>Low wall NW</Text>
 		</Text>
 	</ModOp>
 </ModOps>

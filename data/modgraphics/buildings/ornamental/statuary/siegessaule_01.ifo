@@ -74,5 +74,23 @@
       <zf>-1.35</zf>
     </Position>
   </PriorityFeedbackBlocker>
+  <UnevenBlocker>
+    <Position>
+      <xf>-1.5</xf>
+      <zf>1.5</zf>
+    </Position>
+    <Position>
+      <xf>1.5</xf>
+      <zf>1.5</zf>
+    </Position>
+    <Position>
+      <xf>1.5</xf>
+      <zf>-1.5</zf>
+    </Position>
+    <Position>
+      <xf>-1.5</xf>
+      <zf>-1.5</zf>
+    </Position>
+  </UnevenBlocker>
   
 </Info>

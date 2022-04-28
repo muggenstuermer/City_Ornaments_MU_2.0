@@ -41,25 +41,7 @@
   <BuildBlocker>
     <Position>
       <xf>0.5</xf>
-      <zf>1.5</zf>
-    </Position>
-    <Position>
-      <xf>0.5</xf>
       <zf>0.5</zf>
-    </Position>
-    <Position>
-      <xf>-0.5</xf>
-      <zf>0.5</zf>
-    </Position>
-    <Position>
-      <xf>-0.5</xf>
-      <zf>1.5</zf>
-    </Position>
-  </BuildBlocker>
-  <BuildBlocker>
-    <Position>
-      <xf>0.5</xf>
-      <zf>-1.5</zf>
     </Position>
     <Position>
       <xf>0.5</xf>
@@ -71,116 +53,25 @@
     </Position>
     <Position>
       <xf>-0.5</xf>
-      <zf>-1.5</zf>
+      <zf>0.5</zf>
     </Position>
   </BuildBlocker>
   <FeedbackBlocker>
     <Position>
       <xf>0.5</xf>
-      <zf>1.5</zf>
+      <zf>0.5</zf>
     </Position>
     <Position>
       <xf>0.5</xf>
-      <zf>0.5</zf>
+      <zf>-0.5</zf>
+    </Position>
+    <Position>
+      <xf>-0.5</xf>
+      <zf>-0.5</zf>
     </Position>
     <Position>
       <xf>-0.5</xf>
       <zf>0.5</zf>
-    </Position>
-    <Position>
-      <xf>-0.5</xf>
-      <zf>1.5</zf>
     </Position>
   </FeedbackBlocker>
-  <FeedbackBlocker>
-    <Position>
-      <xf>0.5</xf>
-      <zf>-1.5</zf>
-    </Position>
-    <Position>
-      <xf>0.5</xf>
-      <zf>-0.5</zf>
-    </Position>
-    <Position>
-      <xf>-0.5</xf>
-      <zf>-0.5</zf>
-    </Position>
-    <Position>
-      <xf>-0.5</xf>
-      <zf>-1.5</zf>
-    </Position>
-  </FeedbackBlocker>
-  
-  <PriorityFeedbackBlocker>
-    <Position>
-      <xf>0.25</xf>
-      <zf>1.5</zf>
-    </Position>
-    <Position>
-      <xf>0.25</xf>
-      <zf>0.25</zf>
-    </Position>
-    <Position>
-      <xf>-0.25</xf>
-      <zf>0.25</zf>
-    </Position>
-    <Position>
-      <xf>-0.25</xf>
-      <zf>1.5</zf>
-    </Position>
-  </PriorityFeedbackBlocker>
-  <PriorityFeedbackBlocker>
-    <Position>
-      <xf>0.25</xf>
-      <zf>-1.5</zf>
-    </Position>
-    <Position>
-      <xf>0.25</xf>
-      <zf>-0.25</zf>
-    </Position>
-    <Position>
-      <xf>-0.25</xf>
-      <zf>-0.25</zf>
-    </Position>
-    <Position>
-      <xf>-0.25</xf>
-      <zf>-1.5</zf>
-    </Position>
-  </PriorityFeedbackBlocker>
-  <PriorityFeedbackBlocker>
-    <Position>
-      <xf>0.5</xf>
-      <zf>1.5</zf>
-    </Position>
-    <Position>
-      <xf>0.5</xf>
-      <zf>0.5</zf>
-    </Position>
-    <Position>
-      <xf>-0.5</xf>
-      <zf>0.5</zf>
-    </Position>
-    <Position>
-      <xf>-0.5</xf>
-      <zf>1.5</zf>
-    </Position>
-  </PriorityFeedbackBlocker>
-  <PriorityFeedbackBlocker>
-    <Position>
-      <xf>0.5</xf>
-      <zf>-1.5</zf>
-    </Position>
-    <Position>
-      <xf>0.5</xf>
-      <zf>-0.5</zf>
-    </Position>
-    <Position>
-      <xf>-0.5</xf>
-      <zf>-0.5</zf>
-    </Position>
-    <Position>
-      <xf>-0.5</xf>
-      <zf>-1.5</zf>
-    </Position>
-  </PriorityFeedbackBlocker>
 </Info>

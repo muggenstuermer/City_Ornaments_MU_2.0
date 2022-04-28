@@ -1,5 +1,5 @@
 {
-  "Version": "2.2",
+  "Version": "2.4",
   "ModID": "City_Ornaments_2.0_MU",
   "IncompatibleIds": null,
   "ModDependencies": null,
@@ -45,9 +45,9 @@
   "KnownIssues": [
     {
       "Chinese": null,
-      "English": "Updatable marketplaces do not show everything after upgrading (optics), the copy tool can help and build a new one (upgraded variant)",
-      "French": "Les places de marché pouvant être mises à jour ne montrent pas tout après la mise à niveau (optique), l'outil de copie peut vous aider et en créer une nouvelle (variante mise à niveau)",
-      "German": "Updatebare Marktplätze zeigen nach dem aufwerten nicht alles an (optik),abhilfe schafft das kopiertool und neu bauen (aufgewertete variante)",
+      "English": null,
+      "French": null,
+      "German": null,
       "Italian": null,
       "Japanese": null,
       "Korean": null,
@@ -58,9 +58,9 @@
     },
     {
       "Chinese": null,
-      "English": "Some elements come from the DLC Docklands. Those who do not own this DLC cannot build these elements",
-      "French": "Certains éléments proviennent du DLC Docklands. Ceux qui ne possèdent pas ce DLC ne peuvent pas construire ces éléments",
-      "German": "Einige Elemente stammen aus den DLC Docklands. Wer diese DLC nicht besitzt, kann diese Elemente nicht bauen",
+      "English": "Some elements come from the DLC . Those who do not own this DLC cannot build these elements",
+      "French": "Certains éléments proviennent du DLC . Ceux qui ne possèdent pas ce DLC ne peuvent pas construire ces éléments",
+      "German": "Einige Elemente stammen aus den DLC . Wer diese DLC nicht besitzt, kann diese Elemente nicht bauen",
       "Italian": null,
       "Japanese": null,
       "Korean": null,

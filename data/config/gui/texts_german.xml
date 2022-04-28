@@ -619,8 +619,22 @@
 		
 		<Text>
 		  <GUID>1337500075</GUID>
-		  <Text>Kultur</Text>
+		  <Text>Muggi CO2-2.4</Text>
 		</Text>
+		
+		<Text>
+		  <GUID>1337500351</GUID>
+		  <Text>Muggi CO2-2.4</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501430</GUID>
+		  <Text>Muggi CO2-2.4</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501431</GUID>
+		  <Text>Muggi CO2-2.4</Text>
+		</Text>
+		
 		
 		<Text>
 		  <GUID>1337500076</GUID>
@@ -1242,15 +1256,71 @@
 		</Text>
 		<Text>
 		  <GUID>1337500225</GUID>
-		  <Text>Marktplatz</Text>
+		  <Text>Arbeiter Viehmarkt</Text>
 		</Text>
 		<Text>
+		  <GUID>1337501338</GUID>
+		  <Text>Hier wird gehandelt als gäbe es kein Morgen mehr</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501339</GUID>
+		  <Text>Hacienda-Pflaster (Straße)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501340</GUID>
+		  <Text>Hacienda-Pflaster (Ornament)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501341</GUID>
+		  <Text>Hacienda-Weg (Straße)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501342</GUID>
+		  <Text>Hacienda-Weg (Ornament)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501343</GUID>
+		  <Text>Gelbes Blumenbeet (NW-Palme)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501344</GUID>
+		  <Text>Rotes Blumenbeet (NW-Palme)</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501345</GUID>
+		  <Text>Lila Blumenbeet (NW-Palme)</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>134742</GUID>
+		  <Text>Gelbes Blumenbeet (AW-Laubbaum)</Text>
+		</Text>
+		<Text>
+		  <GUID>134741</GUID>
+		  <Text>Rotes Blumenbeet (AW-Laubbaum)</Text>
+		</Text>
+		<Text>
+		  <GUID>134720</GUID>
+		  <Text>Lila Blumenbeet (AW-Laubbaum)</Text>
+		</Text>
+		
+		
+		<Text>
 		  <GUID>1337500226</GUID>
-		  <Text>Marktplatz</Text>
+		  <Text>Investoren Markt</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501337</GUID>
+		  <Text>Die Investoren schätzen die Frische, welche ihnen hier angeboten wird</Text>
 		</Text>
 		<Text>
 		  <GUID>1337500238</GUID>
-		  <Text>Marktplatz</Text>
+		  <Text>Bauern Markt</Text>
+		</Text>
+		<Text>
+		  <GUID>1337500240</GUID>
+		  <Text>Man trifft sich hier auch zu netten gesprächen während man sein Zuchtvieh verkauft</Text>
 		</Text>
 		
 		<Text>
@@ -1296,8 +1366,350 @@
 		  <Text>Wisentgehege</Text>
 		</Text>
 		<Text>
-		  <GUID>1337500234</GUID>
+		  <GUID>1337500235</GUID>
 		  <Text>Wasserbüffelgehege</Text>
 		</Text>
+		
+		
+		<Text>
+		  <GUID>1337501346</GUID>
+		  <Text>Umzäunte Begrünung NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501347</GUID>
+		  <Text>Umzäunter Baum NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501348</GUID>
+		  <Text>Kanalisation NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501349</GUID>
+		  <Text>Kanäle NW</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501350</GUID>
+		  <Text>Getreidefeld</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501351</GUID>
+		  <Text>Hopfenfeld</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501352</GUID>
+		  <Text>Kartoffelfeld</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501353</GUID>
+		  <Text>Weingut</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501354</GUID>
+		  <Text>Paprikafeld</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501355</GUID>
+		  <Text>Zuckerrohrfeld</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501356</GUID>
+		  <Text>Tabakfeld</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501357</GUID>
+		  <Text>Baumwollfeld</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501358</GUID>
+		  <Text>Kakaoplantage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501359</GUID>
+		  <Text>Kautschukplantage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501360</GUID>
+		  <Text>Kaffeefeld</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501361</GUID>
+		  <Text>Bananenplantage</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501362</GUID>
+		  <Text>Maisfeld</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501363</GUID>
+		  <Text>Rindergehege</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501364</GUID>
+		  <Text>Schafpferch</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501365</GUID>
+		  <Text>Schweinestall</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501366</GUID>
+		  <Text>Rindergehege NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501367</GUID>
+		  <Text>Alpakaweide</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501368</GUID>
+		  <Text>Gänsegehege</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501369</GUID>
+		  <Text>Husky-​Auslauf</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501370</GUID>
+		  <Text>Hacienda Pflasterstraße</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501371</GUID>
+		  <Text>Hacienda Pflasterstraße Brücke</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501372</GUID>
+		  <Text>Hacienda Weg Straße</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501373</GUID>
+		  <Text>Hacienda Weg Straße Brücke</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501374</GUID>
+		  <Text>Angelegter Wasserkanal NW</Text>
+		</Text>
+		
+		
+		<Text>
+		  <GUID>1337501375</GUID>
+		  <Text>Wasserspeier 1-fach NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501376</GUID>
+		  <Text>Wasserspeier 4-fach NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501377</GUID>
+		  <Text>Wegweiser NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501378</GUID>
+		  <Text>1x1 Statuen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501379</GUID>
+		  <Text>1x1 Brunnen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501380</GUID>
+		  <Text>2x2 Statuen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501381</GUID>
+		  <Text>2x2 Brunnen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501382</GUID>
+		  <Text>2x3 Brunnen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501383</GUID>
+		  <Text>4x5 Brunnen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501384</GUID>
+		  <Text>4x5 Statuen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501385</GUID>
+		  <Text>Durchgänge NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501386</GUID>
+		  <Text>Kübelpflanzen auf Sockel NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501387</GUID>
+		  <Text>Kübelpflanzen Eingezäunt NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501388</GUID>
+		  <Text>Kübelpflanzen Normal NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501389</GUID>
+		  <Text>Kleine Bäume und Büsche NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501390</GUID>
+		  <Text>Blumenkübel auf Sockel NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501391</GUID>
+		  <Text>Blumenkübel NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501392</GUID>
+		  <Text>Blumenkübel Groß NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501393</GUID>
+		  <Text>2er Sitzbänke mit Personen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501394</GUID>
+		  <Text>2er Sitzbänke ohne Personen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501395</GUID>
+		  <Text>2er ohne Sitzbank und Personen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501396</GUID>
+		  <Text>1er Sitzbänke NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501397</GUID>
+		  <Text>1er Sitzbänke Ecke NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501398</GUID>
+		  <Text>Sitzbänke Mittig NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501399</GUID>
+		  <Text>Torbogen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501400</GUID>
+		  <Text>Werbetafeln Anno Eigenwerbung NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501401</GUID>
+		  <Text>Werbetafel Ingame Produkte NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501402</GUID>
+		  <Text>Werbetafel Mods NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501403</GUID>
+		  <Text>Litfaßsäulen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501404</GUID>
+		  <Text>Fahnen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501405</GUID>
+		  <Text>Fußgängerbrücke NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501406</GUID>
+		  <Text>Straßen Überdachung NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501407</GUID>
+		  <Text>Statuen und Brunnen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501408</GUID>
+		  <Text>Personen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501409</GUID>
+		  <Text>City Ornamente NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501410</GUID>
+		  <Text>Investorenzaun NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501411</GUID>
+		  <Text>Nobelzaun NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501412</GUID>
+		  <Text>Investorenskin NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501413</GUID>
+		  <Text>Prachtvoller Markt NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501414</GUID>
+		  <Text>Freiluftmarkt NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501415</GUID>
+		  <Text>Gerade Hecke NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501416</GUID>
+		  <Text>Zaun NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501417</GUID>
+		  <Text>Breiter Eingang NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501418</GUID>
+		  <Text>Torbogen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501419</GUID>
+		  <Text>Wasserspiele NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501420</GUID>
+		  <Text>Dekorierter gerader Zaun NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501421</GUID>
+		  <Text>Dekorierter Torbogen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501422</GUID>
+		  <Text>Dekorierte gerade Hecke NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501423</GUID>
+		  <Text>Dekorierter Eingang NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501424</GUID>
+		  <Text>Verzierter Stahlzaun NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501425</GUID>
+		  <Text>Ziegelmauertor NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501426</GUID>
+		  <Text>Ziegelmauer NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501427</GUID>
+		  <Text>Niedriger Mauereingang NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501428</GUID>
+		  <Text>Niedriger Mauertorbogen NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501429</GUID>
+		  <Text>Niedrige Mauer NW</Text>
+		</Text>
+		
 	</ModOp>
 </ModOps>

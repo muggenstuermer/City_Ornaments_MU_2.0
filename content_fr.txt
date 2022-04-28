@@ -111,3 +111,40 @@ Changelog - 2.2 UNIQUEMENT COMPATIBLE AVEC SAVEGAME !
 	- Grâce à l'Taubenangriff, une méthode a été introduite qui permet de construire des objets dans des objets. Cela permet une plus grande liberté de construction. Il faut cependant bien regarder où et comment on trace sa route, car dans ce cas, elle peut être tracée par l'objet !
 	- un petit how-to sur la manière d'utiliser le nouveau contenu : https://www.youtube.com/watch?v=AwETqVwslX0
 	- une petite présentation de la façon dont cela peut fonctionner avec l'objet dans l'objet : https://www.youtube.com/watch?v=YXrw_5tqKTE
+	
+	
+---------------------------
+Changelog - 2.3 
+---------------------------
+	
+	- Adaptations générales à GU 14 et corrections de bugs en résultant
+	- des ajustements visuels mineurs et majeurs sur certains objets
+	- toutes les tuiles de la plaza ont maintenant un décor d'hacienda correspondant qui peut être changé en appuyant sur shift+G
+	- tous les ornements originaux de la Nouvelle-Orléans qui ont un fond de place ont été transférés dans ce mod et ont reçu un decal Hacienda interchangeable avec Shift+G
+	- quelques objets ont été recréés et adaptés pour l'utilisation dans la NO (decal)
+	- 2 nouvelles routes ont été créées dans le look Hacienda, enfin des ponts pour l'Hacienda.
+	- Au cas où vous souhaiteriez utiliser un autre mod de croisement rail/route, un fichier assets.xml a été créé, dans lequel les ajustements pour le croisement rail/route ont été supprimés. Il se trouve directement dans le dossier du mod (assets.xml_no_changing_Street_Rails_Crossing).
+	  veuillez renommer ce fichier en "assets.xml", veuillez sauvegarder (copie de sécurité) les fichiers originaux du chemin "[Mugge] City_Ornaments_2.0_MU/data/config/main/asset" ou renommer et/ou remplacer par ceux sans croisements de rails.et vous pouvez utiliser d'autres mods qui modifient les croisements de rails/routes.
+	  Cependant, le contenu "chemin de fer" de la version 2.2 aura l'air un peu bizarre.
+	  
+	  
+---------------------------
+Changelog - 2.4 
+---------------------------
+	
+	- Après une sortie désastreuse de la 2.3 qui a provoqué dans certains cas une inversion complète des decals,voici la 2.4 complètement modifiée
+	  je n'ai pas pu trouver l'erreur, je dois partir du principe que ce système a un bug que je ne peux pas reproduire. c'est pourquoi j'ai renoncé à ce système pour beaucoup de choses et j'ai préféré ajouter une autre variante (shift+V).
+	  
+	  
+	- tout ce qui concerne le CO2 a été retiré de l'onglet culture et déplacé dans un onglet spécial, qui vous indique également le numéro de version. le reste se trouve comme toujours dans le menu ouvrier. 
+	- Adaptations générales à GU 14 et corrections de bugs qui en découlent	  
+	- des ajustements visuels mineurs et majeurs sur certains objets
+	- tous les ornements de plaza tiles de ce mod ont maintenant une autre variante avec le decal Hacienda, shift+V. et par endroits shift+G car ils l'avaient déjà dans 2.2.
+	- tous les ornements originaux de la Nouvelle-Orléans qui ont un fond de place ont reçu une autre variante avec le decal Hacienda correspondant.shift+V . cela inclut aussi les ornements des dlc's sortis.
+	- certains objets ont été redessinés et adaptés pour être utilisés dans la NW, par exemple le canal avec l'hacienda tile comme sol.
+	- 2 nouvelles routes ont été créées dans le look Hacienda, avec lesquelles il est possible de construire un pont.
+	- Au cas où vous souhaiteriez utiliser un autre mod de croisement rail/route, un fichier assets.xml a été créé, dans lequel les ajustements pour le croisement rail/route ont été supprimés. Il se trouve directement dans le dossier du mod (assets.xml_no_changing_Street_Rails_Crossing).
+	  veuillez renommer ce fichier en "assets.xml", veuillez sauvegarder (copie de sécurité) les fichiers originaux du chemin "[Mugge] City_Ornaments_2.0_MU/data/config/main/asset" ou renommer et/ou remplacer par ceux sans croisements de rails.et vous pouvez utiliser d'autres mods qui modifient les croisements de rails/routes.
+	  Cependant, le contenu "chemin de fer" de la version 2.2 aura l'air un peu bizarre.
+
+Traduit avec www.DeepL.com/Translator (version gratuite)

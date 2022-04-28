@@ -110,3 +110,38 @@ Changelog - 2.2 NUR BEDINGT SAVEGAME KOMPATIBEL !
 	- dank Taubenangriff wurde eine methode mit eingebracht,die es erlaubt objekte in objekte zu bauen.das ermöglicht mehr freiheit beim bauen.man muss dann jedoch genau schauen wo und wie man zum Beispiel seine Strasse zieht,weil sie in dem fall durch das objekt gezogen werden kann !
 	- ein kleines how-to wie man mit dem neuen content umgehen kann : https://www.youtube.com/watch?v=AwETqVwslX0
 	- eine kleine präsentation,wie das mit objekt in objekt funktionieren kann : https://www.youtube.com/watch?v=YXrw_5tqKTE
+	
+	
+---------------------------
+Changelog - 2.3 
+---------------------------
+	
+	- Generelle anpassungen an GU 14 und dadurch enstandenes bugfixing
+	- kleinere,und größere optische anpassungen an einigen objekten
+	- sämtliche plaza tiles haben nun durch Shift+G wechselbaren, passenden Hacienda decal erhalten
+	- alle originalen Ornamente in der NW welche einen plazaboden besitzen,wurden in diese mod ausgelagert und haben zusätzlich mit Shift+G wechselbaren, passenden Hacienda decal erhalten
+	- einige objekte wurden für den gebrauch in der NW neu angelegt und angepasst (decal)
+	- 2 neue Straßen im Hacienda look wurden erstellt.endlich Brücken für die Hacienda
+	- Für den Fall daß man einen anderen schienen/straßen kruzungs mod verwenden möchte,wurde eine assets.xml in der die anpassungen für die Schienen-Strasse kreuzung entfernt wurde,bereitgestellt.liegt direkt im modordner (assets.xml_no_changing_Street_Rails_Crossing).
+	  diese datei bitte in "assets.xml" umbenennen ,die originale aus dem pfad "[Mugge] City_Ornaments_2.0_MU/data/config/main/asset" bitte einmal sichern (sicherheitskopie)oder umbenennen und/oder gegen die ohne schienenübergänge ersetzen.und ihr könnt andere mods benutzen welche die schienen/strassen kreuzungen modifizieren.
+	  Allerdings,wird der "Eisenbahn" content aus 2.2 dann etwas merkwürdig aussehen.
+	  
+	  
+---------------------------
+Changelog - 2.4 
+---------------------------
+	
+	- Nach einem desaster release von 2.3 bei dem es in einigen fällen zu einer kompletten vertauschung der decals kam,hier der komplett umgebaute 2.4
+	  da ich den fehler nicht ausfindig machen konnte,muss ich davon ausgehen,daß dieses system wohl einen bug besitzt den ich nicht reproduzieren kann.deshalb habe ich bei vielem auf dieses system verzichtet und stattdessen lieber eine weitere variante hinzugefügt (shift+V)
+	  
+	- alles aus CO2 wurde aus dem kulturreiter entfernt,und in einen eigens angelegten Reiter verschoben,dieser zeigt euch auch die versionsnummer an.der rest ist wie immer im arbeitermenü zu finden  
+	- Generelle anpassungen an GU 14 und dadurch enstandenes bugfixing	  
+	- kleinere,und größere optische anpassungen an einigen objekten
+	- sämtliche plaza tiles Ornamente aus diesem mod,haben nun eine weitere variante mit dem Hacienda decal ehlaten,shift+V. und stellenweise shift+G weil sie es in 2.2 schon besaßen.
+	- alle originalen Ornamente in der NW welche einen plazaboden besitzen,haben eine weitere variation mit dem passenden Hacienda decal erhalten.shift+V . darin enthalten sind auch die Ornamente aus den erschienenenen dlc's
+	- einige objekte wurden für den gebrauch in der NW neu angelegt und angepasst.Zum Beispiel der Kanal mit hacienda tile als boden.
+	- 2 neue Straßen im Hacienda look wurden erstellt.Mit diesen ist ein Brückenbau möglich
+	- Für den Fall daß man einen anderen schienen/straßen kruzungs mod verwenden möchte,wurde eine assets.xml in der die anpassungen für die Schienen-Strasse kreuzung entfernt wurde,bereitgestellt.liegt direkt im modordner (assets.xml_no_changing_Street_Rails_Crossing).
+	  diese datei bitte in "assets.xml" umbenennen ,die originale aus dem pfad "[Mugge] City_Ornaments_2.0_MU/data/config/main/asset" bitte einmal sichern (sicherheitskopie)oder umbenennen und/oder gegen die ohne schienenübergänge ersetzen.und ihr könnt andere mods benutzen welche die schienen/strassen kreuzungen modifizieren.
+	  Allerdings,wird der "Eisenbahn" content aus 2.2 dann etwas merkwürdig aussehen.
+	  

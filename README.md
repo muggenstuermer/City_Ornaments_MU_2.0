@@ -92,9 +92,8 @@ Changes:
 	-various adjustments to GU 10 (DLC docklands)
 	-is now compatible with [Ornamental] World-Fair Items from SiU
 	-The Eiffel Tower is now in the "Statues and Fountains" category in the City_Ornaments_2.0 building menu after it was obtained from the World's Fair.
-
--To not disturb old scores, the farmer's market is placed after updating from the investor's market
-- There is still a known bug with the marketplace (known bugs : not all feedback males appear through the upgrade,the only way to fix this at the moment is to copy the upgraded level and set it again. i'm still looking for a solution).
+	-To not disturb old scores, the farmer's market is placed after updating from the investor's market
+	- There is still a known bug with the marketplace (known bugs : not all feedback males appear through the upgrade,the only way to fix this at the moment is to copy the upgraded level and set it again. i'm still looking for a solution).
 
 
 ---------------------------

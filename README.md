@@ -124,7 +124,7 @@ Changelog - 2.3
 	- some objects were newly created and adapted for use in the NW (decal)
 	- 2 new streets in the Hacienda look were created.finally bridges for the Hacienda
 	- In case you want to use another rail/road crossing mod,an assets.xml has been provided in which the adjustments for the rail/road crossing have been removed.it is located directly in the mod folder (assets.xml_no_changing_Street_Rails_Crossing).
-	  please rename this file to "assets.xml" ,the original from the path "[Mugge] City_Ornaments_2.0_MU/data/config/main/asset" please save once (backup)or rename and/or replace with the one without rail crossings.and you can use other mods which modify the rail/road crossings.
+	  please rename this file to "assets.xml" ,the original from the path "[Ornamental] City_Ornaments_2.0_MU/data/config/main/asset" please save once (backup)or rename and/or replace with the one without rail crossings.and you can use other mods which modify the rail/road crossings.
 	  However, the "railway" content from 2.2 will then look a bit strange.
 	  
 	  
@@ -144,7 +144,7 @@ Changelog - 2.4
 	- some objects have been redesigned and adapted for use in the NW.for example the canal with hacienda tile as floor.
 	- 2 new roads in the hacienda look were created.with these a bridge construction is possible.
 	- In case you want to use another rail/road crossing mod,an assets.xml has been provided in which the adjustments for the rail/road crossing have been removed.it is located directly in the mod folder (assets.xml_no_changing_Street_Rails_Crossing).
-	  please rename this file to "assets.xml" ,the original from the path "[Mugge] City_Ornaments_2.0_MU/data/config/main/asset" please save once (backup)or rename and/or replace with the one without rail crossings.and you can use other mods which modify the rail/road crossings.
+	  please rename this file to "assets.xml" ,the original from the path "[Ornamental] City_Ornaments_2.0_MU/data/config/main/asset" please save once (backup)or rename and/or replace with the one without rail crossings.and you can use other mods which modify the rail/road crossings.
 	  However, the "railway" content from 2.2 will then look a bit strange.
 	
 	
@@ -156,6 +156,6 @@ Changelog - 2.5
 	- Lrds42 aka Lrds xormenter aka Lordys has allowed to use his textures from his New World Docklands mod ( https://www.nexusmods.com/anno1800/mods/215 ) for an ornamental land version. Many thanks at this point.
 	- the land docklands ensemble now also added in NW and Enbesa look on request thanks to Lrds42 aka Lrds xormenter aka Lordys
 	- In case you want to use another rail/road crossing mod,an assets.xml has been provided in which the adjustments for the rail/road crossing have been removed.it is located directly in the mod folder (assets.xml_no_changing_Street_Rails_Crossing).
-	  please rename this file to "assets.xml" ,the original from the path "[Mugge] City_Ornaments_2.0_MU/data/config/main/asset" please save once (backup)or rename and/or replace with the one without rail crossings.and you can use other mods which modify the rail/road crossings.
+	  please rename this file to "assets.xml" ,the original from the path "[Ornamental] City_Ornaments_2.0_MU/data/config/main/asset" please save once (backup)or rename and/or replace with the one without rail crossings.and you can use other mods which modify the rail/road crossings.
 	  However, the "railway" content from 2.2 will then look a bit strange.
 	

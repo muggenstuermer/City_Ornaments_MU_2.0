@@ -619,20 +619,20 @@
 		
 		<Text>
 		  <GUID>1337500075</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		
 		<Text>
 		  <GUID>1337500351</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		<Text>
 		  <GUID>1337501430</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		<Text>
 		  <GUID>1337501431</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		
 		<Text>
@@ -1706,6 +1706,109 @@
 		<Text>
 		  <GUID>1337501429</GUID>
 		  <Text>Mur bas NW</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501436</GUID>
+		  <Text>Jardin d'iris NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501437</GUID>
+		  <Text>Jardin de camélias NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501438</GUID>
+		  <Text>Jardin de marguerites jaunes NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501439</GUID>
+		  <Text>Jardin de pétunias rouges et blancs NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501440</GUID>
+		  <Text>Jardin d'althéas NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501441</GUID>
+		  <Text>Jardin de gentianes NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501442</GUID>
+		  <Text>Jardin de lys NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501443</GUID>
+		  <Text>Jardin de soucis NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501444</GUID>
+		  <Text>Allée de topiaires NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501445</GUID>
+		  <Text>Labyrinthe végétal NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501446</GUID>
+		  <Text>Jardin de topiaires NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501447</GUID>
+		  <Text>Embellissements (allée) NW</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501449</GUID>
+		  <Text>Dépôt NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501450</GUID>
+		  <Text>Dépôt Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501452</GUID>
+		  <Text>Embarcadère NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501453</GUID>
+		  <Text>Embarcadère Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501454</GUID>
+		  <Text>Capitainerie NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501455</GUID>
+		  <Text>Capitainerie Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501456</GUID>
+		  <Text>Bureau des exportations NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501457</GUID>
+		  <Text>Bureau des exportations Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501458</GUID>
+		  <Text>Grue de réparation NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501459</GUID>
+		  <Text>Grue de réparation Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501460</GUID>
+		  <Text>Quai de chargement NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501461</GUID>
+		  <Text>Quai de chargement Enbesa</Text>
 		</Text>
 	</ModOp>
 </ModOps>

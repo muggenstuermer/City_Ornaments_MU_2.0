@@ -619,20 +619,20 @@
 		
 		<Text>
 		  <GUID>1337500075</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		
 		<Text>
 		  <GUID>1337500351</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		<Text>
 		  <GUID>1337501430</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		<Text>
 		  <GUID>1337501431</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		
 		
@@ -1709,6 +1709,109 @@
 		<Text>
 		  <GUID>1337501429</GUID>
 		  <Text>Niedrige Mauer NW</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501436</GUID>
+		  <Text>Iris-​Garten NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501437</GUID>
+		  <Text>Kamelien-​Garten NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501438</GUID>
+		  <Text>Gänseblümchen-​Garten NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501439</GUID>
+		  <Text>Rot-​weißer Petunien-​Garten NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501440</GUID>
+		  <Text>Hibiskus-​Garten NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501441</GUID>
+		  <Text>Enzian-​Garten NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501442</GUID>
+		  <Text>Lilien-​Garten NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501443</GUID>
+		  <Text>Ringelblumen-​Garten NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501444</GUID>
+		  <Text>Formschnitt-​Allee NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501445</GUID>
+		  <Text>Heckenlabyrinth NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501446</GUID>
+		  <Text>Formschnitt-​Garten NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501447</GUID>
+		  <Text>Pfad-​Ornamente NW</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501449</GUID>
+		  <Text>Depot NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501450</GUID>
+		  <Text>Depot Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501452</GUID>
+		  <Text>Anlegestelle NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501453</GUID>
+		  <Text>Anlegestelle Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501454</GUID>
+		  <Text>Hafenmeisterei NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501455</GUID>
+		  <Text>Hafenmeisterei Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501456</GUID>
+		  <Text>Exportbüro NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501457</GUID>
+		  <Text>Exportbüro Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501458</GUID>
+		  <Text>Reparaturkran NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501459</GUID>
+		  <Text>Reparaturkran Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501460</GUID>
+		  <Text>Verladekai NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501461</GUID>
+		  <Text>Verladekai Enbesa</Text>
 		</Text>
 		
 	</ModOp>

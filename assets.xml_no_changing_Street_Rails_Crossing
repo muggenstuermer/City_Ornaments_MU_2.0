@@ -1,10 +1,719 @@
 <ModOps>
 	<!-- muggenstuermer GUID-Range  1337500000 - 1337509900  -->
 	
-	<!-- ID's are used for this mod: 1337500030 to 1337500351 + 1337501337 to 1337501435 -->
+	<!-- ID's are used for this mod: 1337500030 to 1337500351 + 1337501337 to 1337501462 -->
 	<!-- InternalID's are used for this mod : 448 to 472 + 477 to 484 -->
 	
+	
+	
 	<ModOp Type="addNextSibling" GUID='416'>
+	
+		<Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>1337501436</GUID>
+          <Name>purple blue flower field - iris</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_botanica_purpleflower_nw.png</IconFilename>
+        </Standard>
+        <Blocking />
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+		  <PickingAsset>1337501436</PickingAsset>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_01_a.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_02_a.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_03_a.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_04_a.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114584</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>1337501437</GUID>
+          <Name>light pink flower field - roses</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_botanica_pinkflower_nw.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+		  <PickingAsset>1337501437</PickingAsset>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_01_b.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_02_b.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_03_b.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_04_b.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114586</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>1337501438</GUID>
+          <Name>yellow flower field - miracle daisy</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_botanica_yellowflower_nw.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+		  <PickingAsset>1337501438</PickingAsset>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_01_c.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_02_c.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_03_c.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_04_c.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114587</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>1337501439</GUID>
+          <Name>red white flower field - red white petunia</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_botanica_redandwhiteflower_nw.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+		  <PickingAsset>1337501439</PickingAsset>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_01_d.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_02_d.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_03_d.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_04_d.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114588</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>1337501440</GUID>
+          <Name>pink flower field - hibiscus</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_botanica_darkpinkflower_nw.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+		  <PickingAsset>1337501440</PickingAsset>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_01_e.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_02_e.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_03_e.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_04_e.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114589</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>1337501441</GUID>
+          <Name>blue flower field - gentian</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_botanica_blueflower_nw.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+		  <PickingAsset>1337501441</PickingAsset>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_01_f.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_02_f.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_03_f.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_04_f.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114590</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>1337501442</GUID>
+          <Name>white flower field - blue heart lily</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_botanica_whiteflower_nw.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+		  <PickingAsset>1337501442</PickingAsset>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_01_g.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_02_g.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_03_g.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_04_g.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114591</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>1337501443</GUID>
+          <Name>orange flower field - plumeria aussi orange</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_botanica_orangeflower_nw.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+		  <PickingAsset>1337501443</PickingAsset>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_01_h.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_02_h.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_03_h.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_05_04_h.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114592</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>1337501444</GUID>
+          <Name>trees alley</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_botanica_hedgespath_nw.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+		  <PickingAsset>1337501444</PickingAsset>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_04_b.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114593</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>1337501445</GUID>
+          <Name>labyrinth</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_botanica_labybrinth_nw.png</IconFilename>
+        </Standard>
+
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+		  <PickingAsset>1337501445</PickingAsset>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_04_a.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114594</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>1337501446</GUID>
+          <Name>sculpted trees</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_botanica_treesculptures_nw.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+		  <PickingAsset>1337501446</PickingAsset>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_04_c.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_04_d.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_04_f.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_04_g.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_04_h.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/buildings/ornamental/double_decal_originals/cultural_03_module_05/cultural_03_module_04_i.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114595</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+	
+	
 	<!-- Wasserspiele  NW -->
 		<Asset>
 			<BaseAssetGUID>416</BaseAssetGUID>
@@ -6160,12 +6869,13 @@
 			<NewGUID>1337500252</NewGUID>
 		</Item>
 	</ModOp>
+	
 	<!-- Original Straßen sollen zu den neuen Straßen connecten -->
 	<ModOp Type="merge" GUID="141032" Path="/Values/GlobalConstructionAIBalancing/RegionStreets/Moderate/StreetNormal">
-		<StreetNormal>1000178;1900055</StreetNormal>
+		<StreetNormal>1000178;1337500034</StreetNormal>
 	</ModOp>
 	<ModOp Type="merge" GUID="141032" Path="/Values/GlobalConstructionAIBalancing/RegionStreets/Moderate/StreetFast">
-		<StreetFast>1010035;1900038;1900039</StreetFast>
+		<StreetFast>1010035;1337500030;1337500032</StreetFast>
 	</ModOp>
 	<!-- StrassenOrnament  -->
 	<ModOp Type="addNextSibling" GUID='1010035'>
@@ -22189,7 +22899,7 @@
 		 Keim der Hoffnung Wandmalerei
 		 Straßenlaterne "Lichter der Stadt" etc
 		 Variationen durchschaltbar machen -->
-	<ModOp Type="add" GUID="101497,102482,101516,80062,137563,80057,80058,102846,102847,102848,136238,136239,136240,136410,136241,136242,136243,80001,80002,114777,269296,114776,114778,269293,269294,269295,269297,269298,116706,117511,117736,118723,118241,118240,118239,80128,80129,80130,893,895,896,24589,25930,116617,116618,116619,116621,116620,117514,117515,117516,117527,117528,117529,80008,80009,80006,80007,80011,80003,80004,80005,80010,80012,80013,80014,80015,80017,80048,80045,80046,80047,80051,80050,80049,80044,80043,80042,80041,80040,80059,80060,80061,80063,80064,269809,269808,269807,269806,269805,269804,269802,269801,269800,269799,269798,137772,137773,137774,137764,137765,137789,137790,137768,137766,137771,137767,137769,137770,112297,112298,112299,112300,112301,112302,118230,118232,118234,112303,112304,118229,118231,118233,112305,80131,80132,80133,80134,80136,25931,25929,80215,134730,134731,134732,134733,134721,134722,134724,134725,134727,134729,134734,134735,134737,134738,134736,134723,134726,134728,25080,25082,25079,25081,25077,25135,25083,25139,25136,25138,25137,80212,80135" Path="/Values/Building">
+	<ModOp Type="add" GUID="103048,102383,101497,102482,101516,80062,137563,80057,80058,102846,102847,102848,136238,136239,136240,136410,136241,136242,136243,80001,80002,114777,269296,114776,114778,269293,269294,269295,269297,269298,116706,117511,117736,118723,118241,118240,118239,80128,80129,80130,893,895,896,24589,25930,116617,116618,116619,116621,116620,117514,117515,117516,117527,117528,117529,80008,80009,80006,80007,80011,80003,80004,80005,80010,80012,80013,80014,80015,80017,80048,80045,80046,80047,80051,80050,80049,80044,80043,80042,80041,80040,80059,80060,80061,80063,80064,269809,269808,269807,269806,269805,269804,269802,269801,269800,269799,269798,137772,137773,137774,137764,137765,137789,137790,137768,137766,137771,137767,137769,137770,112297,112298,112299,112300,112301,112302,118230,118232,118234,112303,112304,118229,118231,118233,112305,80131,80132,80133,80134,80136,25931,25929,80215,134730,134731,134732,134733,134721,134722,134724,134725,134727,134729,134734,134735,134737,134738,134736,134723,134726,134728,25080,25082,25079,25081,25077,25135,25083,25139,25136,25138,25137,80212,80135" Path="/Values/Building">
 		<AllowChangeVariation>1</AllowChangeVariation>
 	</ModOp>
 	
@@ -22299,6 +23009,15 @@
 	<ModOp Type="add" GUID="269296" Path="/Values/Object/Variations">
 		<Item>
 			<Filename>data/modgraphics/buildings/ornamental/double_decal_originals_2/up_dlc04_props_system_2x2_fountain_01.cfg</Filename>
+		</Item>
+	</ModOp>
+	<!-- Löwenstatue variation -->
+	<ModOp Type="add" GUID="102383,103048" Path="/Values/Object/Variations">
+		<Item>
+			<Filename>data/modgraphics/buildings/ornamental/double_decal_originals/statue_01.cfg</Filename>
+		</Item>
+		<Item>
+			<Filename>data/modgraphics/buildings/ornamental/double_decal_originals/statue_01_hacienda.cfg</Filename>
 		</Item>
 	</ModOp>
 	<!-- Stein-​Blumenkübel variation -->
@@ -37064,6 +37783,12 @@
 						<Item>
 							<Filename>data\modgraphics\buildings\ornamental\train\harbor_main_01\harbor_main_01.cfg</Filename>
 						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_main_01\harbor_main_01_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_main_01\harbor_main_01_af.cfg</Filename>
+						</Item>
 					</Variations>
                 </Object>
 				<SoundEmitter>
@@ -37103,7 +37828,7 @@
                 <Standard>
                     <GUID>1337500345</GUID>
                     <Name>Docklands2</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_depot.png</IconFilename>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_depot_aw.png</IconFilename>
 					<InfoDescription>132240</InfoDescription>
                 </Standard>
                 <Building>
@@ -37134,6 +37859,42 @@
                         </Item>
 						<Item>
                             <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
                         </Item>
                     </InfluencedByNeighbors>
                     <InfluencedVariationDirection>
@@ -37286,6 +38047,460 @@
 			</Values>
         </Asset>
 	</ModOp>
+	<!-- Speicherstadt Depot Land NW-->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501449</GUID>
+                    <Name>Docklands2</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_depot_nw.png</IconFilename>
+					<InfoDescription>132240</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501449</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                    </BuildingBlockPool>
+                    <BuildModeStartDirectionOffset>-90</BuildModeStartDirectionOffset>
+                    <KeepRotationInBlock>1</KeepRotationInBlock>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_03_storage_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_03_storage_corner_02.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_03_storage_tcross.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_03_storage_corner_01.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_03\harbor_module_03_storage_straight_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_03\harbor_module_03_storage_corner_02_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_03\harbor_module_03_storage_tcross_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_03\harbor_module_03_storage_corner_01_nw.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132240</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
+	<!-- Speicherstadt Depot Land Afrika-->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501450</GUID>
+                    <Name>Docklands2</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_depot_af.png</IconFilename>
+					<InfoDescription>132240</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501450</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                    </BuildingBlockPool>
+                    <BuildModeStartDirectionOffset>-90</BuildModeStartDirectionOffset>
+                    <KeepRotationInBlock>1</KeepRotationInBlock>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_03_storage_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_03_storage_corner_02.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_03_storage_tcross.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_03_storage_corner_01.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_03\harbor_module_03_storage_straight_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_03\harbor_module_03_storage_corner_02_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_03\harbor_module_03_storage_tcross_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_03\harbor_module_03_storage_corner_01_af.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132240</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
 	<!-- Speicherstadt Anlegestelle Land -->
 	<ModOp Type="addNextSibling" GUID='1010035'>
 		<Asset>
@@ -37294,7 +38509,7 @@
                 <Standard>
                     <GUID>1337500346</GUID>
                     <Name>Docklands3</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_pier.png</IconFilename>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_pier_aw.png</IconFilename>
 					<InfoDescription>132240</InfoDescription>
                 </Standard>
                 <Building>
@@ -37325,6 +38540,42 @@
                         </Item>
 						<Item>
                             <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
                         </Item>
                     </InfluencedByNeighbors>
                     <InfluencedVariationDirection>
@@ -37477,6 +38728,460 @@
 			</Values>
         </Asset>
 	</ModOp>
+	<!-- Speicherstadt Anlegestelle Land NW-->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501452</GUID>
+                    <Name>Docklands3</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_pier_nw.png</IconFilename>
+					<InfoDescription>132240</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501452</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                    </BuildingBlockPool>
+                    <BuildModeStartDirectionOffset>90</BuildModeStartDirectionOffset>
+                    <KeepRotationInBlock>1</KeepRotationInBlock>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_04_pier_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_04_pier_corner_01.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_04_pier_corner_02.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_04_pier_tcross.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>10000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_04\harbor_module_04_pier_straight_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_04\harbor_module_04_pier_corner_01_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_04\harbor_module_04_pier_corner_02_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_04\harbor_module_04_pier_tcross_nw.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132101</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
+	<!-- Speicherstadt Anlegestelle Land AF-->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501453</GUID>
+                    <Name>Docklands3</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_pier_af.png</IconFilename>
+					<InfoDescription>132240</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501453</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                    </BuildingBlockPool>
+                    <BuildModeStartDirectionOffset>90</BuildModeStartDirectionOffset>
+                    <KeepRotationInBlock>1</KeepRotationInBlock>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_04_pier_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_04_pier_corner_01.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_04_pier_corner_02.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_04_pier_tcross.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>10000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_04\harbor_module_04_pier_straight_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_04\harbor_module_04_pier_corner_01_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_04\harbor_module_04_pier_corner_02_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_04\harbor_module_04_pier_tcross_af.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132101</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
 	<!-- Speicherstadt Hafenmeister Land -->
 	<ModOp Type="addNextSibling" GUID='1010035'>
 		<Asset>
@@ -37485,7 +39190,7 @@
                 <Standard>
                     <GUID>1337500347</GUID>
                     <Name>Docklands4</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_item.png</IconFilename>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_item_aw.png</IconFilename>
 					<InfoDescription>132238</InfoDescription>
                 </Standard>
                 <Building>
@@ -37516,6 +39221,42 @@
                         </Item>
 						<Item>
                             <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
                         </Item>
                     </InfluencedByNeighbors>
                     <InfluencedVariationDirection>
@@ -37694,6 +39435,512 @@
 			</Values>
         </Asset>
 	</ModOp>
+	<!-- Speicherstadt Hafenmeister Land NW -->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501454</GUID>
+                    <Name>Docklands4</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_item_nw.png</IconFilename>
+					<InfoDescription>132238</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501454</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>2</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>3</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>2</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Direction>3</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <DontCare>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </DontCare>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                    </BuildingBlockPool>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_02_item_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_02_item_corner.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_02_item_tcross.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_02_item_cross.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>15000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_02\harbor_module_02_item_straight_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_02\harbor_module_02_item_corner_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_02\harbor_module_02_item_tcross_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_02\harbor_module_02_item_cross_nw.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132101</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
+	<!-- Speicherstadt Hafenmeister Land AF -->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501455</GUID>
+                    <Name>Docklands4</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_item_af.png</IconFilename>
+					<InfoDescription>132238</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501455</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>2</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>3</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>2</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Direction>3</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <DontCare>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </DontCare>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                    </BuildingBlockPool>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_02_item_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_02_item_corner.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_02_item_tcross.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_02_item_cross.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>15000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_02\harbor_module_02_item_straight_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_02\harbor_module_02_item_corner_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_02\harbor_module_02_item_tcross_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_02\harbor_module_02_item_cross_af.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132101</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
 	<!-- Speicherstadt Exportbüro Land -->
 	<ModOp Type="addNextSibling" GUID='1010035'>
 		<Asset>
@@ -37702,7 +39949,7 @@
                 <Standard>
                     <GUID>1337500348</GUID>
                     <Name>Docklands5</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_export.png</IconFilename>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_export_aw.png</IconFilename>
 					<InfoDescription>132239</InfoDescription>
                 </Standard>
                 <Building>
@@ -37733,6 +39980,42 @@
                         </Item>
 						<Item>
                             <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
                         </Item>
                     </InfluencedByNeighbors>
                     <InfluencedVariationDirection>
@@ -37911,6 +40194,512 @@
 			</Values>
         </Asset>
 	</ModOp>
+	<!-- Speicherstadt Exportbüro Land NW-->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501456</GUID>
+                    <Name>Docklands5</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_export_nw.png</IconFilename>
+					<InfoDescription>132239</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501456</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>2</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>3</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>2</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Direction>3</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <DontCare>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </DontCare>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                    </BuildingBlockPool>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_01_export_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_01_export_corner.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_01_export_tcross.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_01_export_cross.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>25000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_01\harbor_module_01_export_straight_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_01\harbor_module_01_export_corner_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_01\harbor_module_01_export_tcross_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_01\harbor_module_01_export_cross_nw.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132101</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
+	<!-- Speicherstadt Exportbüro Land AF-->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501457</GUID>
+                    <Name>Docklands5</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_export_af.png</IconFilename>
+					<InfoDescription>132239</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501457</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>2</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>3</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>2</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Direction>3</Direction>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <DontCare>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </DontCare>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                    </BuildingBlockPool>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_01_export_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_01_export_corner.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_01_export_tcross.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_01_export_cross.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>25000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_01\harbor_module_01_export_straight_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_01\harbor_module_01_export_corner_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_01\harbor_module_01_export_tcross_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_01\harbor_module_01_export_cross_af.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132101</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
 	<!-- Speicherstadt Reparaturkran Land -->
 	<ModOp Type="addNextSibling" GUID='1010035'>
 		<Asset>
@@ -37919,7 +40708,7 @@
                 <Standard>
                     <GUID>1337500349</GUID>
                     <Name>Docklands6</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_crane.png</IconFilename>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_crane_aw.png</IconFilename>
 					<InfoDescription>3065</InfoDescription>
                 </Standard>
                 <Building>
@@ -37950,6 +40739,42 @@
                         </Item>
 						<Item>
                             <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
                         </Item>
                     </InfluencedByNeighbors>
                     <InfluencedVariationDirection>
@@ -38102,6 +40927,460 @@
 			</Values>
         </Asset>
 	</ModOp>
+	<!-- Speicherstadt Reparaturkran Land NW-->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501458</GUID>
+                    <Name>Docklands6</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_crane_nw.png</IconFilename>
+					<InfoDescription>3065</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501458</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                    </BuildingBlockPool>
+                    <BuildModeStartDirectionOffset>-90</BuildModeStartDirectionOffset>
+                    <KeepRotationInBlock>1</KeepRotationInBlock>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_06_repair_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_06_repair_corner_02.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_06_repair_tcross.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_06_repair_corner_01.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>15000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_06\harbor_module_06_repair_straight_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_06\harbor_module_06_repair_corner_02_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_06\harbor_module_06_repair_tcross_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_06\harbor_module_06_repair_corner_01_nw.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132101</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
+	<!-- Speicherstadt Reparaturkran Land AF-->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501459</GUID>
+                    <Name>Docklands6</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_crane_af.png</IconFilename>
+					<InfoDescription>3065</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501459</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                    </BuildingBlockPool>
+                    <BuildModeStartDirectionOffset>-90</BuildModeStartDirectionOffset>
+                    <KeepRotationInBlock>1</KeepRotationInBlock>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_06_repair_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_06_repair_corner_02.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_06_repair_tcross.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_06_repair_corner_01.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>15000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_06\harbor_module_06_repair_straight_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_06\harbor_module_06_repair_corner_02_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_06\harbor_module_06_repair_tcross_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_06\harbor_module_06_repair_corner_01_af.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132101</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
 	<!-- Speicherstadt Verladekai Land -->
 	<ModOp Type="addNextSibling" GUID='1010035'>
 		<Asset>
@@ -38110,7 +41389,7 @@
                 <Standard>
                     <GUID>1337500350</GUID>
                     <Name>Docklands7</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_speed.png</IconFilename>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_speed_aw.png</IconFilename>
 					<InfoDescription>132242</InfoDescription>
                 </Standard>
                 <Building>
@@ -38142,7 +41421,42 @@
 						<Item>
                             <Building>1337500350</Building>
                         </Item>
-                        
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
                     </InfluencedByNeighbors>
                     <InfluencedVariationDirection>
                         <Item>
@@ -38262,6 +41576,460 @@
 						</Item>
 						<Item>
 							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_05\harbor_module_05_speedup_corner_01.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132101</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
+	<!-- Speicherstadt Verladekai Land NW-->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501460</GUID>
+                    <Name>Docklands7</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_speed_nw.png</IconFilename>
+					<InfoDescription>132242</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501460</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                    </BuildingBlockPool>
+                    <BuildModeStartDirectionOffset>-90</BuildModeStartDirectionOffset>
+                    <KeepRotationInBlock>1</KeepRotationInBlock>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_05_speedup_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_05_speedup_corner_02.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_05_speedup_tcross.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_05_speedup_corner_01.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>30000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_05\harbor_module_05_speedup_straight_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_05\harbor_module_05_speedup_corner_02_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_05\harbor_module_05_speedup_tcross_nw.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_05\harbor_module_05_speedup_corner_01_nw.cfg</Filename>
+						</Item>
+					</Variations>
+                </Object>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>OrnamentalBuilding</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<Locked>
+                    <DLCDependency>410083</DLCDependency>
+                </Locked>
+				<Ornament>
+					<PlazzaSize>0</PlazzaSize>
+					<OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>132101</OrnamentDescritpion>
+                </Ornament>
+			</Values>
+        </Asset>
+	</ModOp>
+	<!-- Speicherstadt Verladekai Land AF-->
+	<ModOp Type="addNextSibling" GUID='1010035'>
+		<Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501461</GUID>
+                    <Name>Docklands7</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_docklands_module_speed_af.png</IconFilename>
+					<InfoDescription>132242</InfoDescription>
+                </Standard>
+                <Building>
+					<BuildingCategoryName>11149</BuildingCategoryName>
+					<PickingAsset>1337501461</PickingAsset>
+					<BuildModeRandomRotation>90</BuildModeRandomRotation>
+					<AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+					<AllowChangeVariation>1</AllowChangeVariation>
+					<AllowChangeDirection>1</AllowChangeDirection>
+					<InfluencedByNeighbors>
+                        <Item>
+                            <Building>1337500344</Building>
+                        </Item>
+                        <Item>
+                            <Building>1337500345</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500346</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500347</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500348</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500349</Building>
+                        </Item>
+						<Item>
+                            <Building>1337500350</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501449</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501450</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501452</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501453</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501454</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501455</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501456</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501457</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501458</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501459</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501460</Building>
+                        </Item>
+						<Item>
+                            <Building>1337501461</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                    <InfluencedVariationDirection>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                        <Item>
+                            <Type>Crossing</Type>
+                        </Item>
+                        <Item>
+                            <Type>TCrossing</Type>
+                        </Item>
+                        <Item />
+                        <Item />
+                    </InfluencedVariationDirection>
+                    <BuildingBlockPool>
+                        <Corner>
+                            <Pool>
+                                <Item>
+                                    <Variation>1</Variation>
+                                </Item>
+                            </Pool>
+                        </Corner>
+                        <Mid>
+                            <Pool>
+                                <Item />
+                            </Pool>
+                        </Mid>
+                        <Crossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>3</Variation>
+                                </Item>
+                            </Pool>
+                        </Crossing>
+                        <TCrossing>
+                            <Pool>
+                                <Item>
+                                    <Variation>2</Variation>
+                                </Item>
+                            </Pool>
+                        </TCrossing>
+                    </BuildingBlockPool>
+                    <BuildModeStartDirectionOffset>-90</BuildModeStartDirectionOffset>
+                    <KeepRotationInBlock>1</KeepRotationInBlock>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_05_speedup_straight.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_05_speedup_corner_02.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_05_speedup_tcross.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/ui/2kimages/main/3dicons/docklands/harbor_module_05_speedup_corner_01.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
+                </Building>
+				<Blocking>
+					<HidePropsRadius>0</HidePropsRadius>
+					<DeletePropsRadius>0</DeletePropsRadius>
+					<IsAllowedWithinRestrictedAABBBuildability>1</IsAllowedWithinRestrictedAABBBuildability>
+					<BlocksBuilding>0</BlocksBuilding>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>30000</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+				<Culture>
+					<Attractiveness>0</Attractiveness>
+					<CultureType>Culture</CultureType>
+				</Culture>
+				<Selection>
+					<Colors>
+						<WeakSelectionColorType>NoColor</WeakSelectionColorType>
+					</Colors>
+				</Selection>
+				<Mesh>
+                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+                </Mesh>
+                <Object>
+                    <Variations>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_05\harbor_module_05_speedup_straight_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_05\harbor_module_05_speedup_corner_02_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_05\harbor_module_05_speedup_tcross_af.cfg</Filename>
+						</Item>
+						<Item>
+							<Filename>data\modgraphics\buildings\ornamental\train\harbor_module_05\harbor_module_05_speedup_corner_01_af.cfg</Filename>
 						</Item>
 					</Variations>
                 </Object>
@@ -39688,33 +43456,111 @@
 							<Building>1337500309</Building>
 							<!-- Schrankenhäuschen animiert groß -->
 						</Item>
+						
+					</BuildingList>
+                    <CategoryDescription>1337500242</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Railway</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+	<!-- Baumenü 10a - UPDATE 2.4 Hacienda Docklands-->
+	<ModOp Type="addNextSibling" GUID='1010359'>
+		<Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501451</GUID>
+                    <Name>RailwayStuff2a</Name>
+					<IconFilename>data\ui\2kimages\main\3dicons\icon_dlc_docklands_128.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
 						<Item>
 							<Building>1337500344</Building>
 							<!-- Speicherstadt Haupt Land -->
 						</Item>
 						<Item>
 							<Building>1337500345</Building>
-							<!-- Speicherstadt Depot Land -->
+							<!-- Speicherstadt Depot Land AW-->
+						</Item>
+						<Item>
+							<Building>1337501449</Building>
+							<!-- Speicherstadt Depot Land NW-->
+						</Item>
+						<Item>
+							<Building>1337501450</Building>
+							<!-- Speicherstadt Depot Land AF-->
 						</Item>
 						<Item>
 							<Building>1337500346</Building>
 							<!-- Speicherstadt Anlegestelle Land -->
 						</Item>
 						<Item>
+							<Building>1337501452</Building>
+							<!-- Speicherstadt Anlegestelle Land NW-->
+						</Item>
+						<Item>
+							<Building>1337501453</Building>
+							<!-- Speicherstadt Anlegestelle Land AF-->
+						</Item>
+						<Item>
 							<Building>1337500347</Building>
 							<!-- Speicherstadt Hafenmeister Land -->
+						</Item>
+						<Item>
+							<Building>1337501454</Building>
+							<!-- Speicherstadt Hafenmeister Land NW-->
+						</Item>
+						<Item>
+							<Building>1337501455</Building>
+							<!-- Speicherstadt Hafenmeister Land AF-->
 						</Item>
 						<Item>
 							<Building>1337500348</Building>
 							<!-- Speicherstadt Exportbüro Land -->
 						</Item>
 						<Item>
+							<Building>1337501456</Building>
+							<!-- Speicherstadt Exportbüro Land NW-->
+						</Item>
+						<Item>
+							<Building>1337501457</Building>
+							<!-- Speicherstadt Exportbüro Land AF-->
+						</Item>
+						<Item>
 							<Building>1337500349</Building>
 							<!-- Speicherstadt Reparaturkran Land -->
 						</Item>
 						<Item>
+							<Building>1337501458</Building>
+							<!-- Speicherstadt Reparaturkran Land NW-->
+						</Item>
+						<Item>
+							<Building>1337501459</Building>
+							<!-- Speicherstadt Reparaturkran Land AF-->
+						</Item>
+						<Item>
 							<Building>1337500350</Building>
 							<!-- Speicherstadt Verladekai Land -->
+						</Item>
+						<Item>
+							<Building>1337501460</Building>
+							<!-- Speicherstadt Verladekai Land NW-->
+						</Item>
+						<Item>
+							<Building>1337501461</Building>
+							<!-- Speicherstadt Verladekai Land AF-->
 						</Item>
 						
 					</BuildingList>
@@ -40251,6 +44097,80 @@
         </Asset>
     </ModOp>
 	
+	<!-- Baumenü 16 - UPDATE "2.5" Hacienda Blumenparks -->
+	<ModOp Type="addNextSibling" GUID='1010359'>
+		<Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337501447</GUID>
+                    <Name>HaciendaStuff_3</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/icon_thrift_nw.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+						<Item>
+							<Building>1337501436</Building>
+							<!-- Iris-​Garten -->
+						</Item>
+						<Item>
+							<Building>1337501437</Building>
+							<!-- 2er Sitzbänke ohne Personen -->
+						</Item>
+						<Item>
+							<Building>1337501438</Building>
+							<!-- 2er ohne Sitzbankank und Personen -->
+						</Item>
+						<Item>
+							<Building>1337501439</Building>
+							<!-- 1er Sitzbänke -->
+						</Item>
+						<Item>
+							<Building>1337501440</Building>
+							<!-- 1er Sitzbänke Ecke -->
+						</Item>
+						<Item>
+							<Building>1337501441</Building>
+							<!-- Sitzbänke Mittig -->
+						</Item>
+						<Item>
+							<Building>1337501442</Building>
+							<!-- Torbogen -->
+						</Item>
+						<Item>
+							<Building>1337501443</Building>
+							<!-- Werbetafel Anno Self -->
+						</Item>
+						<Item>
+							<Building>1337501444</Building>
+							<!-- Werbetafel Ingame Produkte -->
+						</Item>
+						<Item>
+							<Building>1337501445</Building>
+							<!-- Werbetafel Mods -->
+						</Item>
+						<Item>
+							<Building>1337501446</Building>
+							<!-- Litfaßsäulen -->
+						</Item>
+					</BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Hacienda2</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+	
 <!--  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  AB HIER MENÜ POSITIONIERUNG  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  -->	
 	
 <!-- Baumenü AW -->	
@@ -40287,7 +44207,13 @@
 			<Building>1337501409</Building>
 		</Item>
 		<Item>
+			<Building>1337501447</Building>
+		</Item>
+		<Item>
             <Building>1337500293</Building>
+        </Item>
+		<Item>
+            <Building>1337501451</Building>
         </Item>
 		<Item>
             <Building>1337500241</Building>
@@ -40345,7 +44271,13 @@
 			<Building>1337501409</Building>
 		</Item>
 		<Item>
+			<Building>1337501447</Building>
+		</Item>
+		<Item>
             <Building>1337500293</Building>
+        </Item>
+		<Item>
+            <Building>1337501451</Building>
         </Item>
 		<Item>
             <Building>1337500241</Building>
@@ -40403,7 +44335,13 @@
 			<Building>1337501409</Building>
 		</Item>
 		<Item>
+			<Building>1337501447</Building>
+		</Item>
+		<Item>
             <Building>1337500293</Building>
+        </Item>
+		<Item>
+            <Building>1337501451</Building>
         </Item>
 		<Item>
             <Building>1337500241</Building>
@@ -40461,7 +44399,13 @@
 			<Building>1337501409</Building>
 		</Item>
 		<Item>
+			<Building>1337501447</Building>
+		</Item>
+		<Item>
             <Building>1337500293</Building>
+        </Item>
+		<Item>
+            <Building>1337501451</Building>
         </Item>
 		<Item>
             <Building>1337500241</Building>
@@ -40516,7 +44460,13 @@
 							<Building>1337501409</Building>
 						</Item>
 						<Item>
+							<Building>1337501447</Building>
+						</Item>
+						<Item>
 							<Building>1337500293</Building>
+						</Item>
+						<Item>
+							<Building>1337501451</Building>
 						</Item>
 						<Item>
 							<Building>1337500241</Building>
@@ -40590,7 +44540,13 @@
 							<Building>1337501409</Building>
 						</Item>
 						<Item>
+							<Building>1337501447</Building>
+						</Item>
+						<Item>
 							<Building>1337500293</Building>
+						</Item>
+						<Item>
+							<Building>1337501451</Building>
 						</Item>
 						<Item>
 							<Building>1337500241</Building>
@@ -40661,7 +44617,13 @@
 							<Building>1337501409</Building>
 						</Item>
 						<Item>
+							<Building>1337501447</Building>
+						</Item>
+						<Item>
 							<Building>1337500293</Building>
+						</Item>
+						<Item>
+							<Building>1337501451</Building>
 						</Item>
 						<Item>
 							<Building>1337500241</Building>
@@ -40732,7 +44694,13 @@
 							<Building>1337501409</Building>
 						</Item>
 						<Item>
+							<Building>1337501447</Building>
+						</Item>
+						<Item>
 							<Building>1337500293</Building>
+						</Item>
+						<Item>
+							<Building>1337501451</Building>
 						</Item>
 						<Item>
 							<Building>1337500241</Building>
@@ -40801,7 +44769,7 @@
 			<Template>Trigger</Template>
 			<Values>
 				<Standard>
-					<GUID>1337501435</GUID>
+					<GUID>1337501462</GUID>
 					<Name>intermediate moderate 2.0</Name>
 					<IconFilename>data/ui/2kimages/main/profiles/resident_tier02.png</IconFilename>
 				</Standard>
@@ -41870,24 +45838,72 @@
 												<!-- Speicherstadt Depot Land -->
 											</Item>
 											<Item>
+												<Asset>1337501449</Asset>
+												<!-- Speicherstadt Depot Land NW -->
+											</Item>
+											<Item>
+												<Asset>1337501450</Asset>
+												<!-- Speicherstadt Depot Land AF -->
+											</Item>
+											<Item>
 												<Asset>1337500346</Asset>
 												<!-- Speicherstadt Anlegestelle Land -->
+											</Item>
+											<Item>
+												<Asset>1337501452</Asset>
+												<!-- Speicherstadt Anlegestelle Land NW-->
+											</Item>
+											<Item>
+												<Asset>1337501453</Asset>
+												<!-- Speicherstadt Anlegestelle Land AF-->
 											</Item>
 											<Item>
 												<Asset>1337500347</Asset>
 												<!-- Speicherstadt Hafenmeister Land -->
 											</Item>
 											<Item>
+												<Asset>1337501454</Asset>
+												<!-- Speicherstadt Hafenmeister Land NW-->
+											</Item>
+											<Item>
+												<Asset>1337501455</Asset>
+												<!-- Speicherstadt Hafenmeister Land AF-->
+											</Item>
+											<Item>
 												<Asset>1337500348</Asset>
 												<!-- Speicherstadt Exportbüro Land -->
+											</Item>
+											<Item>
+												<Asset>1337501456</Asset>
+												<!-- Speicherstadt Exportbüro Land NW-->
+											</Item>
+											<Item>
+												<Asset>1337501457</Asset>
+												<!-- Speicherstadt Exportbüro Land AF-->
 											</Item>
 											<Item>
 												<Asset>1337500349</Asset>
 												<!-- Speicherstadt Reparaturkran Land -->
 											</Item>
 											<Item>
+												<Asset>1337501458</Asset>
+												<!-- Speicherstadt Reparaturkran Land NW-->
+											</Item>
+											<Item>
+												<Asset>1337501459</Asset>
+												<!-- Speicherstadt Reparaturkran Land AF-->
+											</Item>
+											<Item>
 												<Asset>1337500350</Asset>
 												<!-- Speicherstadt Verladekai Land -->
+											</Item>
+											<Item>
+												<Asset>1337501460</Asset>
+												<!-- Speicherstadt Verladekai Land NW-->
+											</Item>
+											<Item>
+												<Asset>1337501461</Asset>
+												<!-- Speicherstadt Verladekai Land NW-->
 											</Item>
 											<Item>
 												<Asset>1337501339</Asset>
@@ -42199,6 +46215,55 @@
 												<Asset>1337501429</Asset>
 											  <!-- Niedrige Mauer NW -->
 											</Item>
+											<Item>
+												<Asset>1337501433</Asset>
+												<!-- Niedrige Mauer NW -->
+											</Item>
+											
+											<Item>
+												<Asset>1337501436</Asset>
+												<!-- Iris-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501437</Asset>
+												<!-- Kamelien-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501438</Asset>
+												<!-- Gänseblümchen-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501439</Asset>
+												<!-- Rot-​weißer Petunien-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501440</Asset>
+												<!-- Hibiskus-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501441</Asset>
+												<!-- Enzian-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501442</Asset>
+												<!-- Lilien-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501443</Asset>
+												<!-- Ringelblumen-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501444</Asset>
+												<!-- Formschnitt-​Allee NW -->
+											</Item>
+											<Item>
+												<Asset>1337501445</Asset>
+												<!-- Heckenlabyrinth NW -->
+											</Item>
+											<Item>
+												<Asset>1337501446</Asset>
+												<!-- Formschnitt-​Garten NW -->
+											</Item>
 											
 											
 											
@@ -42211,6 +46276,50 @@
 											
 											
 											
+											<Item>
+												<Asset>1337501436</Asset>
+												<!-- Iris-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501437</Asset>
+												<!-- Kamelien-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501438</Asset>
+												<!-- Gänseblümchen-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501439</Asset>
+												<!-- Rot-​weißer Petunien-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501440</Asset>
+												<!-- Hibiskus-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501441</Asset>
+												<!-- Enzian-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501442</Asset>
+												<!-- Lilien-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501443</Asset>
+												<!-- Ringelblumen-​Garten NW -->
+											</Item>
+											<Item>
+												<Asset>1337501444</Asset>
+												<!-- Formschnitt-​Allee NW -->
+											</Item>
+											<Item>
+												<Asset>1337501445</Asset>
+												<!-- Heckenlabyrinth NW -->
+											</Item>
+											<Item>
+												<Asset>1337501446</Asset>
+												<!-- Formschnitt-​Garten NW -->
+											</Item>
 											<Item>
 												<Asset>1337501375</Asset>
 												<!-- 1er Springbrunnen Kanal Beton NW-->
@@ -43573,24 +47682,72 @@
 												<!-- Speicherstadt Depot Land -->
 											</Item>
 											<Item>
+												<Asset>1337501449</Asset>
+												<!-- Speicherstadt Depot Land NW -->
+											</Item>
+											<Item>
+												<Asset>1337501450</Asset>
+												<!-- Speicherstadt Depot Land AF -->
+											</Item>
+											<Item>
 												<Asset>1337500346</Asset>
 												<!-- Speicherstadt Anlegestelle Land -->
+											</Item>
+											<Item>
+												<Asset>1337501452</Asset>
+												<!-- Speicherstadt Anlegestelle Land NW-->
+											</Item>
+											<Item>
+												<Asset>1337501453</Asset>
+												<!-- Speicherstadt Anlegestelle Land AF-->
 											</Item>
 											<Item>
 												<Asset>1337500347</Asset>
 												<!-- Speicherstadt Hafenmeister Land -->
 											</Item>
 											<Item>
+												<Asset>1337501454</Asset>
+												<!-- Speicherstadt Hafenmeister Land NW-->
+											</Item>
+											<Item>
+												<Asset>1337501455</Asset>
+												<!-- Speicherstadt Hafenmeister Land AF-->
+											</Item>
+											<Item>
 												<Asset>1337500348</Asset>
 												<!-- Speicherstadt Exportbüro Land -->
+											</Item>
+											<Item>
+												<Asset>1337501456</Asset>
+												<!-- Speicherstadt Exportbüro Land NW-->
+											</Item>
+											<Item>
+												<Asset>1337501457</Asset>
+												<!-- Speicherstadt Exportbüro Land AF-->
 											</Item>
 											<Item>
 												<Asset>1337500349</Asset>
 												<!-- Speicherstadt Reparaturkran Land -->
 											</Item>
 											<Item>
+												<Asset>1337501458</Asset>
+												<!-- Speicherstadt Reparaturkran Land NW-->
+											</Item>
+											<Item>
+												<Asset>1337501459</Asset>
+												<!-- Speicherstadt Reparaturkran Land AF-->
+											</Item>
+											<Item>
 												<Asset>1337500350</Asset>
 												<!-- Speicherstadt Verladekai Land -->
+											</Item>
+											<Item>
+												<Asset>1337501460</Asset>
+												<!-- Speicherstadt Verladekai Land NW-->
+											</Item>
+											<Item>
+												<Asset>1337501461</Asset>
+												<!-- Speicherstadt Verladekai Land NW-->
 											</Item>
 											
 										</UnhideAssets>

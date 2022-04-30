@@ -618,20 +618,20 @@
 		
 		<Text>
 		  <GUID>1337500075</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		
 		<Text>
 		  <GUID>1337500351</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		<Text>
 		  <GUID>1337501430</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		<Text>
 		  <GUID>1337501431</GUID>
-		  <Text>Muggi CO2-2.4</Text>
+		  <Text>Muggi CO2-2.5</Text>
 		</Text>
 		
 		<Text>
@@ -1701,6 +1701,109 @@
 		<Text>
 		  <GUID>1337501429</GUID>
 		  <Text>Low wall NW</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501436</GUID>
+		  <Text>Iris Garden NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501437</GUID>
+		  <Text>Camellia Garden NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501438</GUID>
+		  <Text>Yellow Daisy Garden NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501439</GUID>
+		  <Text>Red White Petunia Garden NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501440</GUID>
+		  <Text>Hibiscus Garden NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501441</GUID>
+		  <Text>Gentian Garden NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501442</GUID>
+		  <Text>Lily Garden NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501443</GUID>
+		  <Text>Marigold Garden NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501444</GUID>
+		  <Text>Topiary Avenue NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501445</GUID>
+		  <Text>Hedge Maze NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501446</GUID>
+		  <Text>Topiary Garden NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501447</GUID>
+		  <Text>Pathway Ornaments NW</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501449</GUID>
+		  <Text>Depot NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501450</GUID>
+		  <Text>Depot Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501452</GUID>
+		  <Text>Pier NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501453</GUID>
+		  <Text>Pier Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501454</GUID>
+		  <Text>Harbourmaster's Office NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501455</GUID>
+		  <Text>Harbourmaster's Office Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501456</GUID>
+		  <Text>Exports Office NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501457</GUID>
+		  <Text>Exports Office Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501458</GUID>
+		  <Text>Repair Crane NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501459</GUID>
+		  <Text>Repair Crane Enbesa</Text>
+		</Text>
+		
+		<Text>
+		  <GUID>1337501460</GUID>
+		  <Text>Loading Wharf NW</Text>
+		</Text>
+		<Text>
+		  <GUID>1337501461</GUID>
+		  <Text>Loading Wharf Enbesa</Text>
 		</Text>
 	</ModOp>
 </ModOps>

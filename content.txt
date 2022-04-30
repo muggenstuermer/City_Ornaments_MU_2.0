@@ -145,3 +145,12 @@ Changelog - 2.4
 	  diese datei bitte in "assets.xml" umbenennen ,die originale aus dem pfad "[Mugge] City_Ornaments_2.0_MU/data/config/main/asset" bitte einmal sichern (sicherheitskopie)oder umbenennen und/oder gegen die ohne schienenübergänge ersetzen.und ihr könnt andere mods benutzen welche die schienen/strassen kreuzungen modifizieren.
 	  Allerdings,wird der "Eisenbahn" content aus 2.2 dann etwas merkwürdig aussehen.
 	  
+	  
+---------------------------
+Changelog - 2.5 
+---------------------------
+	
+	- Blumenparks und Formschnittgarten aus dem Botanischen Garten hinzugefügt
+	- Lrds42 alias Lrds xormenter alias Lordys hat es gestattet seine Texturen aus seinem New World Docklands mod  ( https://www.nexusmods.com/anno1800/mods/215 ) für eine Ornamentale Land version zu benutzen. Vielen lieben dank an dieser stelle dafür.
+	- das Land-Docklands ensemble nun auch dank Lrds42 alias Lrds xormenter alias Lordys nun auch in NW und Enbesa optik nach anfrage hinzugefügt
+	

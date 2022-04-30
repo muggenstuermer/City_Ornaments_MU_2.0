@@ -147,4 +147,12 @@ Changelog - 2.4
 	  veuillez renommer ce fichier en "assets.xml", veuillez sauvegarder (copie de sécurité) les fichiers originaux du chemin "[Mugge] City_Ornaments_2.0_MU/data/config/main/asset" ou renommer et/ou remplacer par ceux sans croisements de rails.et vous pouvez utiliser d'autres mods qui modifient les croisements de rails/routes.
 	  Cependant, le contenu "chemin de fer" de la version 2.2 aura l'air un peu bizarre.
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
+
+---------------------------
+Changelog - 2.5 
+---------------------------
+	
+	- Ajouté Parcs floraux et Jardin des formes du Jardin botanique
+	- Lrds42 alias Lrds xormenter alias Lordys a permis d'utiliser ses textures de son mod New World Docklands ( https://www.nexusmods.com/anno1800/mods/215 ) pour une version ornementale de la terre. Merci beaucoup pour cela.
+	- l'ensemble des docklands terrestres a été ajouté à la demande grâce à Lrds42 alias Lrds xormenter alias Lordys.
+	
